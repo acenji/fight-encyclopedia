@@ -22,7 +22,7 @@ All fight techniques, rules, and related info are organized in **7 levels** of h
 This helps users navigate from broad fighting styles to the most detailed variation of a move.
 
 **Example Path:**  
-
+```
 Submissions
 └── Joint Locks
    └── Wrist Locks
@@ -30,7 +30,7 @@ Submissions
          └── Gooseneck
             └── Gooseneck from Top Side Control
                └── Multimedia Examples
-
+```
 ### Metadata Hierarchical Subcategory Formatting and Parsing
 
 To represent hierarchical categories inside a **single metadata cell**, use the following delimiters:

@@ -76,6 +76,28 @@ This means:
 
 Please follow this format consistently when filling hierarchical metadata fields.
 
+## Folder Completion Status
+
+To help track which folders have completed and verified data files, we use a simple marker file system:
+
+- When a folder's data is finalized and ready, create a file named `DONE.txt` inside that folder.  
+- The `DONE.txt` file can be empty or contain notes such as completion date, version, or contributor info.  
+- Scripts and contributors can check for the presence of `DONE.txt` to know the folder is complete and does not require immediate changes.  
+
+**Example:**  
+```
+Submissions/
+Joint Locks/
+Wrist Locks/
+DONE.txt
+Flexion/
+Extension/
+```
+
+- This helps avoid duplicated work and clarifies the project's progress at a glance.
+
+Please create or update the `DONE.txt` file when you finish working on a folder's contents.
+ 
 
 📌 **Contributor Tips:**  
 - Use clear and descriptive folder and file names.  

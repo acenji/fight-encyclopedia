@@ -1,8 +1,66 @@
 # Fight Encyclopedia
 
-A comprehensive, community-driven encyclopedia of fighting techniques. Organized in a multi-level hierarchy with detailed biomechanics, technique variations, and multimedia examples.
+Currently, there is no single, well-organized place to find precise information about fighting techniques or to search by exact technique or group. Each fighting style or school maintains its own content, often with inconsistent naming and organization.
+
+The goal of this project is to create a unified classification system for fighting techniques—similar to how minerals, animals, and flowers are scientifically categorized. Instead of Latin, we adopt Japanese terminology, as it has been the most comprehensive and widely accepted language for martial arts over the past centuries.
+
+This encyclopedia organizes techniques in a multi-level hierarchy, from broad categories down to specific variations, and links them to multimedia examples for practical reference.
 
 Visit our official website at [fightencyclopedia.com](https://fightencyclopedia.com)
+
+---
+## Data Hierarchy Example
+
+All fight techniques, rules, and related info are organized in **7 levels** of hierarchy.  
+This helps users navigate from broad fighting styles to the most detailed variation of a move.
+
+**Example Path:**  
+```
+Class: Submission    (Level1)
+└── Group: Joint Lock   (Level2)
+    └── Family: Wrist Lock   (Level3)
+        └── SubFamily: Flexion   (Level4)
+            └── Genus: Gooseneck   (Level5)
+                └── Species: Gooseneck from Top Side Control   (Level6)
+                    └── Variety: [e.g., Gooseneck with elbow adjustment, Gooseneck from half guard]   (Level7)
+                        └── Leaf-level Multimedia Examples: videos, images, tutorials
+
+⚠️ Contributors working under the MIT License are not required to add multimedia examples directly to the taxonomy or metadata hierarchy. Multimedia is linked to the taxonomy at the variety level for reference only.
+```
+---
+## Example Technique Metadata Table
+
+Below is an example of how a technique is represented in the Fight Encyclopedia dataset, using the classification labels and formatted content.
+
+| Label | Content |
+|-------|---------|
+| **Entity Name** | Arm Triangle Choke (From Guard – Collar Grip) |
+| **English Name** | Head-and-Arm Choke (From Guard – Collar Grip) |
+| **Japanese Name** | 肩固め（ガードから・襟取り） |
+| **English-Japanese Name** | Kata Gatame (From Guard – Collar Grip) |
+| **Translation** | Shoulder Hold / Arm-and-Head Lock (From Guard – Collar Grip) |
+| **Aliases** | Collar Grip Arm Triangle from Guard \| Collar Grip Guard Kata Gatame \| Collar Grip Head-and-Arm Choke from Guard |
+| **Description** | A collar-grip variation of the arm triangle choke applied from the guard position. The attacker uses one hand to grip the opponent’s collar (gi) while trapping the head and arm, anchoring the choke and increasing shoulder pressure. The hips are pivoted and angled to the side, with the collar grip used to pull the opponent’s posture down while compressing the carotid arteries. |
+| **Biomechanical Mechanism** | Action \| Lateral compression of neck and arm with anchored gi grip \|\| Joints Affected \| Neck (carotid arteries), shoulder, upper arm \|\| Torque Direction \| Side pressure from hip angle combined with collar anchor and shoulder drive |
+| **Position / Entry Examples** | From closed guard with gi \| Secure deep collar grip with one hand, trap opponent’s arm, pivot hips, and lock head-and-arm position while pulling with collar grip |
+| **Martial Arts Used In** | BJJ \| Judo \| Submission Grappling (gi) |
+| **Danger Rating** | Danger: 9/10 \| Can render unconscious quickly; requires careful training and fast tap awareness. |
+| **Legality in Competition** | IBJJF: Legal (with caution) \| Judo: Legal \| MMA: Not applicable (requires gi) \| Submission Grappling (gi): Legal |
+| **Variants** | Collar grip from guard \|\| Standard from closed guard \|\| From failed triangle \|\| From failed armbar \|\| High guard arm triangle |
+| **Training Notes** | Use the collar grip to break posture and maintain head control; avoid over-reliance on pulling—combine with proper hip angle and shoulder drive. |
+| **History / Origin** | Developed in gi-based grappling arts such as Judo and Brazilian Jiu-Jitsu to enhance control from guard when applying the arm triangle. |
+| **Common Mistakes** | Shallow collar grip \|\| Failing to secure opponent’s arm \|\| Insufficient hip angle \|\| Over-pulling instead of compressing laterally |
+| **Effectiveness** | Highly effective in gi grappling, especially against strong posture and frame defenses. |
+| **Related Techniques** | Gi Ezekiel choke \|\| Collar choke from guard \|\| Triangle choke \|\| Armbar from guard |
+| **Tags** | collar grip arm triangle from guard \| gi kata gatame from guard \| head-and-arm choke collar grip \| BJJ \| Judo \| gi submission \| guard submission |
+| **Notes** | Often chained after failed collar choke or as a transition from lapel control in guard. |
+| **Class** | Submissions |
+| **Group** | Chokes and Strangles |
+| **Family** | Arm Triangles |
+| **SubFamily** | Head-and-Arm Chokes |
+| **Genus** | Kata Gatame |
+| **Species** | From Guard |
+| **Variety** | Collar Grip |
 
 ---
 
@@ -16,37 +74,24 @@ Visit our official website at [fightencyclopedia.com](https://fightencyclopedia.
 
 ---
 
-## Data Hierarchy Example
-
-All fight techniques, rules, and related info are organized in **7 levels** of hierarchy.  
-This helps users navigate from broad fighting styles to the most detailed variation of a move.
-
-**Example Path:**  
-```
-Submissions
-└── Joint Locks
-   └── Wrist Locks
-      └── Flexion
-         └── Gooseneck
-            └── Gooseneck from Top Side Control
-               └── Multimedia Examples
-```
 ### Metadata Hierarchical Subcategory Formatting and Parsing
+
+Note: This section is not the formal classification hierarchy (Class → Variety). It explains how to list multiple categories or sub-items in a single metadata cell in your data files.
 
 To represent hierarchical categories inside a **single metadata cell**, use the following delimiters:
 
-- A **single pipe `|`** always introduces a **new top-level category** (Level 1).  
-- After a top-level category, **double pipes `||`** separate **sub-items** (Level 2) that belong to that top-level category.
+- A **single pipe `|`** always introduces a **new top-level category**  (for that cell).
+- A **double pipe `||`** separates sub-items that belong to the top-level category.  
 
 ---
 
 #### How to parse the example cell value:
-
+```
 Action | action1 || action2 | Affected | affected1 || affected2
-
+```
 
 Breakdown:  
-- Start reading left to right.  
+- Start reading left to right in the cell.  
 - **`Action`** is a top-level category.  
 - Everything after `Action` until the next single pipe `|` (i.e., `action1 || action2`) are sub-items under `Action`. The `||` separates those sub-items.  
 - At the next single pipe, **`Affected`** begins a new top-level category.  

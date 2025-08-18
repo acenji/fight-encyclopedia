@@ -1,6 +1,10 @@
 # Fight Encyclopedia
 
-Currently, there is no single, well-organized place to find precise information about fighting techniques or to search by exact technique or group. Each fighting style or school maintains its own content, often with inconsistent naming and organization.
+Currently, there is no single, well-organized place to find precise information about fighting techniques or to search by exact technique or group. 
+
+For most of history, techniques were taught and recorded in isolated schools, much like how plants, animals, and minerals went unclassified until Carl Linnaeus introduced his universal taxonomy in 1735. 
+
+While modern martial arts organizations and combat sports federations focus primarily on competition rules within their own style—such as BJJ, Judo, wrestling, or MMA—there has never been a central system that organizes techniques across disciplines in a consistent, hierarchical way.
 
 The goal of this project is to create a unified classification system for fighting techniques—similar to how minerals, animals, and flowers are scientifically categorized. Instead of Latin, we adopt Japanese terminology, as it has been the most comprehensive and widely accepted language for martial arts over the past centuries.
 

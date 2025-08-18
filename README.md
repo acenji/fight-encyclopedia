@@ -63,6 +63,34 @@ Below is an example of how a technique is represented in the Fight Encyclopedia 
 | **Variety** | Collar Grip |
 
 ---
+## Disciplines Covered
+
+The Fight Encyclopedia is designed to be **style-agnostic** yet precise, allowing techniques to be categorized consistently across martial arts, combat sports, and professional applications.  
+
+Currently, the encyclopedia covers techniques, rules, and metadata from the following disciplines:
+
+- **Brazilian Jiu-Jitsu (BJJ)**
+- **Judo**
+- **Sambo**
+- **Submission Grappling (Gi & No-Gi)**
+- **Freestyle Wrestling**
+- **Greco-Roman Wrestling**
+- **Catch Wrestling**
+- **Mixed Martial Arts (MMA)**
+- **Boxing**
+- **Muay Thai**
+- **Kickboxing**
+- **Karate**
+- **Taekwondo**
+- **Aikido**
+- **Police / Military Combatives**
+- **Self-Defense Systems**
+
+💡 Don’t see your discipline listed? **Join us and contribute!**  
+We welcome new martial arts, combat sports, and tactical systems to expand the encyclopedia. Contributions help make the classification system richer and more complete.
+
+---
+
 
 ## Repository Structure
 

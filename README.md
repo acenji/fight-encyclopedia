@@ -6,18 +6,26 @@
 ![License: Acenji](https://img.shields.io/badge/License-Acenji-blue.svg)
 ![Contributors](https://img.shields.io/github/contributors/acenji/fight-encyclopedia)
 ![GitHub last commit](https://img.shields.io/github/last-commit/acenji/fight-encyclopedia)
+![GitHub stars](https://img.shields.io/github/stars/acenji/fight-encyclopedia?style=social)
+![GitHub issues](https://img.shields.io/github/issues/acenji/fight-encyclopedia)
+![GitHub forks](https://img.shields.io/github/forks/acenji/fight-encyclopedia)
+![GitHub stars](https://img.shields.io/github/stars/acenji/fight-encyclopedia)
+
 
 Fight Encyclopedia is an open-source, community-driven encyclopedia of fighting techniques. Currently, there is no single, well-organized place to find precise information about techniques or to search by exact technique or group.
 
 It catalogs techniques from a wide range of martial arts and combat sports—including BJJ, Judo, wrestling, MMA, striking arts, and grappling systems—and many others, all organized in a multi-level hierarchy with multimedia examples for practical reference.
 
-For most of history, techniques were taught and recorded in isolated schools, much like how plants, animals, and minerals went unclassified until Carl Linnaeus introduced his universal taxonomy in 1735. 
+For most of history, techniques were taught and recorded in isolated schools. This is similar to how plants, animals, and minerals went unclassified until Carl Linnaeus introduced his universal taxonomy in 1735. 
 
 While modern martial arts organizations and combat sports federations focus primarily on competition rules within their own style—such as BJJ, Judo, wrestling, or MMA—there has never been a central system that organizes techniques across disciplines in a consistent, hierarchical way.
 
 The goal of this project is to create a unified classification system for fighting techniques—similar to how minerals, animals, and flowers are scientifically categorized. Instead of Latin, we adopt Japanese terminology, as it has been the most comprehensive and widely accepted language for martial arts over the past centuries.
 
 This encyclopedia organizes techniques in a multi-level hierarchy, from broad categories down to specific variations, and links them to multimedia examples for practical reference.
+
+We welcome contributions from martial artists, combat sport enthusiasts, and data curators. Even as a single contributor currently, this project is open for anyone to add techniques, references, and multimedia examples.
+
 
 Visit our official website at [fightencyclopedia.com](https://fightencyclopedia.com)
 

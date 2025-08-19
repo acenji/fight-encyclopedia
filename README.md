@@ -4,8 +4,8 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![License: Acenji](https://img.shields.io/badge/License-Acenji-blue.svg)
-![Contributors](https://img.shields.io/github/contributors/username/fight-encyclopedia)
-![GitHub last commit](https://img.shields.io/github/last-commit/username/fight-encyclopedia)
+![Contributors](https://img.shields.io/github/contributors/acenji/fight-encyclopedia)
+![GitHub last commit](https://img.shields.io/github/last-commit/acenji/fight-encyclopedia)
 
 Fight Encyclopedia is an open-source, community-driven encyclopedia of fighting techniques. Currently, there is no single, well-organized place to find precise information about techniques or to search by exact technique or group.
 

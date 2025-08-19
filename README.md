@@ -1,6 +1,10 @@
 # Fight Encyclopedia
 
-Currently, there is no single, well-organized place to find precise information about fighting techniques or to search by exact technique or group. 
+![Fight Encyclopedia Logo](assets/smother-474.png)
+
+Fight Encyclopedia is an open-source, community-driven encyclopedia of fighting techniques. Currently, there is no single, well-organized place to find precise information about techniques or to search by exact technique or group.
+
+It catalogs techniques from a wide range of martial arts and combat sports—including BJJ, Judo, wrestling, MMA, striking arts, and grappling systems—and many others, all organized in a multi-level hierarchy with multimedia examples for practical reference.
 
 For most of history, techniques were taught and recorded in isolated schools, much like how plants, animals, and minerals went unclassified until Carl Linnaeus introduced his universal taxonomy in 1735. 
 
@@ -11,6 +15,18 @@ The goal of this project is to create a unified classification system for fighti
 This encyclopedia organizes techniques in a multi-level hierarchy, from broad categories down to specific variations, and links them to multimedia examples for practical reference.
 
 Visit our official website at [fightencyclopedia.com](https://fightencyclopedia.com)
+
+## Table of Contents
+- [Data Hierarchy Example](#data-hierarchy-example)
+- [Example Technique Metadata Table](#example-technique-metadata-table)
+- [Disciplines Covered](#disciplines-covered)
+- [Repository Structure](#repository-structure)
+- [Metadata Hierarchical Subcategory Formatting and Parsing](#metadata-hierarchical-subcategory-formatting-and-parsing)
+- [Folder Completion Status](#folder-completion-status)
+- [Supported Data File Types](#supported-data-file-types)
+- [Contribution Guide](#contribution-guide)
+- [Licensing](#licensing)
+- [Contact](#contact)
 
 ---
 ## Data Hierarchy Example

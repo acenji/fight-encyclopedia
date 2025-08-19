@@ -2,6 +2,11 @@
 
 ![Fight Encyclopedia Logo](assets/smother-474.png)
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![License: Acenji](https://img.shields.io/badge/License-Acenji-blue.svg)
+![Contributors](https://img.shields.io/github/contributors/username/fight-encyclopedia)
+![GitHub last commit](https://img.shields.io/github/last-commit/username/fight-encyclopedia)
+
 Fight Encyclopedia is an open-source, community-driven encyclopedia of fighting techniques. Currently, there is no single, well-organized place to find precise information about techniques or to search by exact technique or group.
 
 It catalogs techniques from a wide range of martial arts and combat sports—including BJJ, Judo, wrestling, MMA, striking arts, and grappling systems—and many others, all organized in a multi-level hierarchy with multimedia examples for practical reference.

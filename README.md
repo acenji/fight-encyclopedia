@@ -14,6 +14,8 @@
 
 Fight Encyclopedia is an open-source, community-driven encyclopedia of fighting techniques. Currently, there is no single, well-organized place to find precise information about techniques or to search by exact technique or group.
 
+![Wrist Lock Example](assets/wrist_lock_tapout.gif)
+
 It catalogs techniques from a wide range of martial arts and combat sports—including BJJ, Judo, wrestling, MMA, striking arts, and grappling systems—and many others, all organized in a multi-level hierarchy with multimedia examples for practical reference.
 
 For most of history, techniques were taught and recorded in isolated schools. This is similar to how plants, animals, and minerals went unclassified until Carl Linnaeus introduced his universal taxonomy in 1735. 

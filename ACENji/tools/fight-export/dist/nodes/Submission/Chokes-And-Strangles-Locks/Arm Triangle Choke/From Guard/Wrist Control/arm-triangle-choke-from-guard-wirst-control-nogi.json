@@ -1,0 +1,51 @@
+{
+  "id": "class--submission--chokes-and-strangles-locks--arm-triangle-choke--from-guard--wrist-control--arm-triangle-choke-from-guard-wrist-control-no-gi",
+  "slug": "arm-triangle-choke-from-guard-wrist-control-no-gi",
+  "path": [
+    "class",
+    "Submission",
+    "Chokes-And-Strangles-Locks",
+    "Arm Triangle Choke",
+    "From Guard",
+    "Wrist Control"
+  ],
+  "title": "Arm Triangle Choke (From Guard – Wrist Control, No-Gi)",
+  "taxonomy": {
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "Kata Gatame From Guard",
+    "Variety": "Kata Gatame From Guard Wrist Control NoGi"
+  },
+  "labels": {
+    "Entity Name": "Arm Triangle Choke (From Guard – Wrist Control, No-Gi)",
+    "English Name": "Arm Triangle Choke (From Guard – Wrist Control, No-Gi)",
+    "Japanese Name": "肩固め（ガードから・手首コントロール・ノーギ）",
+    "English-Japanese Name": "Kata Gatame (From Guard – Wrist Control, No-Gi)",
+    "Translation": "Shoulder Hold / Arm-and-Head Lock (From Guard – Wrist Control, No-Gi)",
+    "Aliases": "Wrist-Control Arm Triangle from Guard | Guard Kata Gatame with Wrist Control | Head-and-Arm Choke with Wrist Pin (No-Gi)",
+    "Description": "A no-gi guard variation of the arm triangle where the attacker first immobilizes the opponent’s arm via wrist control (pinning the wrist to the mat or across the chest). With the wrist anchored, the attacker threads the arm under the head, drives the shoulder across the neck, and angles the hips to compress the carotids. Wrist control prevents the trapped arm from framing or retracting, creating a tighter, more secure finish.",
+    "Biomechanical Mechanism": "Action | Lateral compression of neck and arm via shoulder pressure and head control || Constraint | Wrist pin/2-on-1 prevents defensive frame and arm retrieval || Joints Affected | Neck (carotids), shoulder, upper arm || Torque Direction | Side pressure from hip pivot and shoulder/chest drive",
+    "Position / Entry Examples": "From closed or open guard | Secure same-side or cross-wrist control (pin/staple) | Thread arm under head | Trap far arm with head-and-arm connection | Angle hips off to choke side | Drive shoulder and squeeze to finish.",
+    "Martial Arts Used In": "BJJ | Submission Grappling | MMA",
+    "Danger Rating": "Danger: 9/10 | Rapid unconsciousness possible when wrist is immobilized and shoulder pressure is established",
+    "Legality in Competition": "IBJJF: Legal | Judo: Legal (rare in no-gi) | MMA: Legal | Submission Grappling: Legal",
+    "Variants": "Wrist pin to the mat | Cross-wrist staple across opponent’s chest | 2-on-1 wrist ride before threading | Transition to mount/side control to finish tighter",
+    "Training Notes": "Maintain wrist control until head-and-arm is fully locked | Use hips/legs to break posture, not just arms | Apply pressure gradually | Expect strong openings to kimura/triangle—choose based on opponent’s reaction",
+    "History / Origin": "Evolved from standard guard kata gatame and kimura-trap systems; adopted widely in no-gi where collar grips are absent and wrist pins provide reliable control",
+    "Common Mistakes": "Letting go of wrist too early || Shallow head-and-arm connection || Squeezing without proper hip angle || Allowing opponent to posture up or reinsert a frame",
+    "Effectiveness": "High when wrist is stapled and posture is broken; control-dependent—drops sharply if wrist control is lost or hips aren’t angled",
+    "Related Techniques": "Kimura from guard | Triangle choke | Armbar from guard | Gift-wrap control | Shoulder crunch\nTags\tno-gi arm triangle with wrist control | guard wrist pin choke | kata gatame wrist control | BJJ | MMA | submission | guard submission",
+    "Tags": "wrist lock | flexion lock | gooseneck | guard submission | half guard attack | joint manipulation | grappling | BJJ | submission grappling | jiu-jitsu",
+    "Notes": "Great follow-up when opponent posts a hand to stand or after failed guillotine/arm drag; if opponent pulls wrist free, flow to kimura or triangle immediately",
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "Kata Gatame From Guard",
+    "Variety": "Kata Gatame From Guard Wrist Control NoGi"
+  }
+}

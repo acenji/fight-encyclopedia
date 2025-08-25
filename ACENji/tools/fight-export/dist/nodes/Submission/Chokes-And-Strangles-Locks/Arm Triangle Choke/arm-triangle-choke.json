@@ -1,0 +1,49 @@
+{
+  "id": "class--submission--chokes-and-strangles-locks--arm-triangle-choke--arm-triangle-choke",
+  "slug": "arm-triangle-choke",
+  "path": [
+    "class",
+    "Submission",
+    "Chokes-And-Strangles-Locks",
+    "Arm Triangle Choke"
+  ],
+  "title": "Arm Triangle Choke",
+  "taxonomy": {
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "",
+    "Variety": "Arm Triangle Choke"
+  },
+  "labels": {
+    "Entity Name": "Arm Triangle Choke",
+    "English Name": "Head-and-Arm Choke",
+    "Japanese Name": "肩固め",
+    "English-Japanese Name": "Kata Gatame",
+    "Translation": "Shoulder Hold / Arm-and-Head Lock",
+    "Aliases": "Arm Triangle | Side Headlock | Kata Gatame Choke",
+    "Description": "A choke where the opponent’s arm and head are trapped against the attacker’s shoulder, restricting blood flow to the brain via carotid arteries. Can induce unconsciousness if held.",
+    "Biomechanical Mechanism": "Action | Lateral compression of neck and arm || Joints Affected | Neck (carotid arteries), shoulder, upper arm || Torque Direction | Side pressure compressing arteries; slight rotation of neck and shoulder stabilizes hold",
+    "Position / Entry Examples": "From mount | Slide around opponent’s trapped arm, lock head || From guard | Control opponent’s arm, pivot to side || From side control | Underhook arm, drive shoulder into neck || From north-south | Wrap arm around head, apply shoulder pressure || From turtle | Wrap arm, roll into kata gatame",
+    "Martial Arts Used In": "BJJ | Judo | Jujutsu | Sambo | Submission Grappling | MMA",
+    "Danger Rating": "Danger: 9/10 | Can render unconscious quickly; requires careful training and tap awareness.",
+    "Legality in Competition": "IBJJF: Legal (with caution) | Judo: Legal | MMA: Legal | Submission Grappling: Legal",
+    "Variants": "Classic arm triangle (head-and-arm) || Mounted arm triangle || Side control arm triangle || North-south arm triangle || From turtle to arm triangle roll",
+    "Training Notes": "Practice slowly; focus on squeezing carotid arteries, not neck vertebrae. Use compliant partners. Ensure quick tap awareness.",
+    "History / Origin": "Traditional in Judo (Kata Gatame) and later adopted in Brazilian Jiu-Jitsu for guard and top control submissions.",
+    "Common Mistakes": "Head placement too high or low || Insufficient shoulder pressure || Arm not fully trapped || Poor body alignment reduces choke effectiveness",
+    "Effectiveness": "Extremely effective in both self-defense and competition. Can finish the opponent quickly with proper technique.",
+    "Related Techniques": "Armbar from guard || Triangle choke || Mounted chokes || North-south choke",
+    "Tags": "arm triangle | kata gatame | head-and-arm choke | BJJ | Judo | submission grappling | mount submission | side control submission | north-south submission",
+    "Notes": "Can transition from failed triangle or armbar attempts; commonly chained in positional sequences.",
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "",
+    "Variety": ""
+  }
+}

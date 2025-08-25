@@ -1,0 +1,51 @@
+{
+  "id": "class--submission--chokes-and-strangles-locks--arm-triangle-choke--from-guard--from-closed-guard-nogi--arm-triangle-choke-from-closed-guard-no-gi",
+  "slug": "arm-triangle-choke-from-closed-guard-no-gi",
+  "path": [
+    "class",
+    "Submission",
+    "Chokes-And-Strangles-Locks",
+    "Arm Triangle Choke",
+    "From Guard",
+    "From Closed Guard NoGi"
+  ],
+  "title": "Arm Triangle Choke (From Closed Guard – No-Gi)",
+  "taxonomy": {
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "From Closed Guard",
+    "Variety": "Kata Gatame Closed Guard No-Gi"
+  },
+  "labels": {
+    "Entity Name": "Arm Triangle Choke (From Closed Guard – No-Gi)",
+    "English Name": "Arm Triangle Choke (From Closed Guard – No-Gi)",
+    "Japanese Name": "肩固め（ガードから・ノーギ）",
+    "English-Japanese Name": "Kata Gatame (From Closed Guard – No-Gi)",
+    "Translation": "Shoulder Hold / Arm-and-Head Lock (From Closed Guard – No-Gi)",
+    "Aliases": "No-Gi Arm Triangle from Closed Guard | Closed Guard No-Gi Kata Gatame | No-Gi Head-and-Arm Choke from Guard",
+    "Description": "A no-gi variation of the arm triangle choke applied from the closed guard. Without the collar grip, the attacker uses arm positioning and shoulder pressure to trap the opponent’s head and arm. Proper hip angle and shoulder drive close the carotid arteries, making the choke highly effective in no-gi grappling.",
+    "Biomechanical Mechanism": "Action | Lateral compression of neck and arm using shoulder pressure and arm positioning || Joints Affected | Neck (carotid arteries), shoulder, upper arm || Torque Direction | Side pressure from hip pivot and arm control",
+    "Position / Entry Examples": "From closed guard | Slide arm under opponent’s head, trap far arm, lock head-and-arm with shoulders and arm positioning, angle hips to the side, apply choke.",
+    "Martial Arts Used In": "BJJ | Submission Grappling | MMA",
+    "Danger Rating": "Danger: 9/10 | Can render opponent unconscious quickly if held properly",
+    "Legality in Competition": "IBJJF: Legal | Judo: Legal (rarely used no-gi) | MMA: Legal | Submission Grappling: Legal",
+    "Variants": "Emphasize arm placement and shoulder pressure. Can be combined with hip pivot and angle changes to tighten. Avoid leaving gaps around the head or arm.",
+    "Training Notes": "Apply gradually and with control. Beginners must focus on positioning before force. Always train with compliant partners.",
+    "History / Origin": "Developed in no-gi contexts where traditional collar grips are unavailable. Popular in MMA and no-gi BJJ for maintaining control from closed guard.",
+    "Common Mistakes": "Shallow arm placement || Weak shoulder pressure || Poor hip angle || Relying solely on arm squeeze",
+    "Effectiveness": "No-gi arm triangle || Darce choke || Anaconda choke || Triangle choke || Armbar from closed guard",
+    "Related Techniques": "Wrist Lock Variations | Armbar Variations | Elbow Lock",
+    "Tags": "no-gi arm triangle from closed guard | closed guard head-and-arm choke | no-gi kata gatame | BJJ | MMA | submission | guard submission",
+    "Notes": "Can follow failed guillotine or collar choke attempts. Useful when opponent defends neck or posture escapes.",
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "From Closed Guard",
+    "Variety": "Kata Gatame Closed Guard No-Gi"
+  }
+}

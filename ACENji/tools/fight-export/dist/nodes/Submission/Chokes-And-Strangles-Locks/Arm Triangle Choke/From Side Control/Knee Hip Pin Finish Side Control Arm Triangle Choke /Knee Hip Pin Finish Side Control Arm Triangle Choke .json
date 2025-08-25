@@ -1,0 +1,51 @@
+{
+  "id": "class--submission--chokes-and-strangles-locks--arm-triangle-choke--from-side-control--knee-hip-pin-finish-side-control-arm-triangle-choke--arm-triangle-choke-from-side-control-knee-hip-pin-finish",
+  "slug": "arm-triangle-choke-from-side-control-knee-hip-pin-finish",
+  "path": [
+    "class",
+    "Submission",
+    "Chokes-And-Strangles-Locks",
+    "Arm Triangle Choke",
+    "From Side Control",
+    "Knee Hip Pin Finish Side Control Arm Triangle Choke "
+  ],
+  "title": "Arm Triangle Choke (From Side Control — Knee-Hip Pin Finish)",
+  "taxonomy": {
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "Arm Triangle From Side Control",
+    "Variety": "Knee-Hip Pin Finish Arm Triangle From Side Control"
+  },
+  "labels": {
+    "Entity Name": "Arm Triangle Choke (From Side Control — Knee-Hip Pin Finish)",
+    "English Name": "Head-and-Arm Choke (From Side Control — Knee-Hip Pin)",
+    "Japanese Name": "肩固め（横四方から）",
+    "English-Japanese Name": "Kata Gatame (From Yoko-Shiho / Side Control)",
+    "Translation": "Shoulder Hold / Arm-and-Head Choke (From Side Control)",
+    "Aliases": "Side Control Arm Triangle (Knee-Hip Pin) | Side Kata Gatame (Hip Pin) | Head-and-Arm (Side, Knee Post)",
+    "Description": "A side-control kata gatame finished with one knee pinning the near-side hip and the opposite leg posted (knee-on-belly–style base). The knee-hip pin blocks shrimping and guard recovery while the posted leg provides stability. Upper-body squeeze (shoulder + chest) does the choking; legs manage control without a full sprawl.",
+    "Biomechanical Mechanism": "Action | Shoulder/chest compression with defender’s arm as wedge || Joints Affected | Neck (carotid arteries); shoulder (secondary) || Forces | Downward shoulder pressure, lateral chest squeeze, knee pin to immobilize hips",
+    "Position / Entry Examples": "From side control, feed the far arm across the neck and drop head beside it. Slide your near-side knee to the defender’s near hip to pin it; post your far leg out for base. Lock gable or palm-to-bicep, “look away,” and incrementally load chest weight to finish.",
+    "Martial Arts Used In": "BJJ | Judo | Sambo | Submission Grappling | MMA",
+    "Danger Rating": "Danger: 9/10 | Direct vascular choke; excellent positional control for gi and no-gi.",
+    "Legality in Competition": "IBJJF: Legal | Judo: Legal | Sambo: Legal | MMA: Legal | Submission Grappling: Legal",
+    "Variants": "Knee-hip pin (posted leg base / knee-on-belly style) || Knee-hip pin transition to mount || Knee-hip pin transition to north-south",
+    "Training Notes": "Keep knee glued to the hip to stop hip-escape; post the far leg at ~45° for balance. Drive chest down gradually; avoid leaning too far forward. If space persists, inch your posted foot wider and rotate shoulders away.",
+    "History / Origin": "Common in Judo and Sambo where pinning mechanics are emphasized; adopted in BJJ for tight control without needing a full sprawl.",
+    "Common Mistakes": "Knee not truly pinning the hip || Posting too narrow and losing balance || Letting the trapped elbow slip free || Trying to finish square without rotating shoulders",
+    "Effectiveness": "Very high—hip immobilization + stable base produces consistent finishes and strong control for transitions.",
+    "Related Techniques": "Arm Triangle from Mount || S-Mount Arm Triangle || North-South Arm Triangle || Mount-to-Side Arm Triangle Transition",
+    "Tags": "side control kata gatame knee hip pin | arm triangle side knee post | head-and-arm choke side control | BJJ | Judo | Sambo | MMA",
+    "Notes": "If defender turns into you to relieve pressure, windshield-wiper to mount while keeping the choke locked for an even tighter finish.",
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "Arm Triangle From Side Control",
+    "Variety": "Knee-Hip Pin Finish Arm Triangle From Side Control"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "class--submission--chokes-and-strangles-locks--arm-triangle-choke--from-turtle--standard-turtle-collapse-arm-triangle-choke--standard-turtle-collapse-arm-triangle-choke",
+  "slug": "standard-turtle-collapse-arm-triangle-choke",
+  "path": [
+    "class",
+    "Submission",
+    "Chokes-And-Strangles-Locks",
+    "Arm Triangle Choke",
+    "From Turtle",
+    "Standard Turtle Collapse Arm Triangle Choke"
+  ],
+  "title": "Standard Turtle Collapse Arm Triangle Choke",
+  "taxonomy": {
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "Arm Triangle From Turtle",
+    "Variety": "Standard Turtle Collapse Arm Triangle Choke"
+  },
+  "labels": {
+    "Entity Name": "Standard Turtle Collapse Arm Triangle Choke",
+    "English Name": "Head-and-Arm Choke (Standard Collapse from Turtle)",
+    "Japanese Name": "肩固め（亀からの崩し）",
+    "English-Japanese Name": "Kata Gatame (Standard Turtle Collapse)",
+    "Translation": "Shoulder Hold / Head-and-Arm Choke (Turtle Collapse)",
+    "Aliases": "Standard Turtle Arm Triangle | Kata Gatame Turtle Collapse | Turtle Breakdown Arm Triangle",
+    "Description": "A kata gatame variation against turtle where the attacker collapses the defender sideways to finish the choke. After threading under the near arm and feeding it across the neck, the attacker drives shoulder and chest pressure, collapsing the turtle base to one side and finishing the choke from top side control.",
+    "Biomechanical Mechanism": "Action | Shoulder and chest compression with defender’s arm as wedge || Joints Affected | Neck (carotid arteries); shoulder (secondary) || Forces | Shoulder wedge, chest weight, lateral squeeze after collapse",
+    "Position / Entry Examples": "From top turtle, thread under the near arm, feed it across the face/neck, and drop head/shoulder next to it. Collapse the turtle base sideways by driving hips and chest, settling into side control while keeping choke locked.",
+    "Martial Arts Used In": "BJJ | Judo | Sambo | Submission Grappling | MMA",
+    "Danger Rating": "Danger: 9/10 | Collapsing the turtle removes base and quickly exposes the choke.",
+    "Legality in Competition": "IBJJF: Legal | Judo: Legal | Sambo: Legal | MMA: Legal | Submission Grappling: Legal",
+    "Variants": "Collapse directly into side control || Collapse into mount finish || Collapse into north-south choke",
+    "Training Notes": "Maintain shoulder depth while collapsing. Control far hip with knee or hand to prevent defender from rolling away. Drive weight diagonally to flatten defender before squeezing.",
+    "History / Origin": "Rooted in Judo newaza kata gatame, adapted in BJJ and Sambo as a high-percentage attack against turtle defenders.",
+    "Common Mistakes": "Collapsing before securing head-and-arm lock || Not blocking hip, allowing spin escape || Squeezing too early without angle",
+    "Effectiveness": "High—collapsing turtle neutralizes base and creates dominant choke-finishing angle.",
+    "Related Techniques": "Arm Triangle from Side Control || Arm Triangle from Mount || Rolling Turtle Arm Triangle || D’Arce Choke",
+    "Tags": "turtle arm triangle collapse | kata gatame turtle breakdown | head-and-arm choke turtle collapse | BJJ | Judo | Sambo | MMA",
+    "Notes": "One of the most reliable methods to attack turtle, as it combines positional breakdown with a direct submission threat.",
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "Arm Triangle From Turtle",
+    "Variety": "Standard Turtle Collapse Arm Triangle Choke"
+  }
+}

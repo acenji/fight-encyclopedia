@@ -1,0 +1,52 @@
+{
+  "id": "class--submission--joint-lock--wrist-lock--flexion--arm-drag--arm-drag-from-standing--flexion-gooseneck-wrist-lock",
+  "slug": "flexion-gooseneck-wrist-lock",
+  "path": [
+    "class",
+    "Submission",
+    "Joint-Lock",
+    "Wrist Lock",
+    "Flexion",
+    "Arm-Drag",
+    "Arm Drag From Standing"
+  ],
+  "title": "Flexion Gooseneck Wrist Lock",
+  "taxonomy": {
+    "Class": "Submissions",
+    "Group": "Joint Locks",
+    "Family": "Wrist Locks",
+    "SubFamily": "Flexion",
+    "Genus": "Gooseneck",
+    "Species": "Gooseneck from Guard",
+    "Variety": "Gooseneck form Half Guard"
+  },
+  "labels": {
+    "Entity Name": "Flexion Gooseneck Wrist Lock",
+    "English Name": "Gooseneck",
+    "Japanese Name": "小手返し",
+    "English-Japanese Name": "Kote Gaeshi",
+    "Translation": "Forearm Reversal or Returning the Small Hand",
+    "Aliases": "Wrist Snap | Kote Hineri",
+    "Description": "A flexion wrist lock involves forcing the hand downward toward the inner forearm (palmar flexion), applying pressure on the radiocarpal joint. Causes intense pain and injury risk.",
+    "Biomechanical Mechanism": "Action | Palmar flexion of the wrist joint || Joints Affected | Radiocarpal joint, metacarpals, ligaments of the volar wrist || Torque Direction | Downward bend, compressive force into joint space",
+    "Position / Entry Examples": "Standing | Grab a punch or lapel → apply gooseneck lock || From guard | Control wrist and roll downward during pass || Police | \"Come-along\" holds or escort techniques",
+    "Martial Arts Used In": "Aikido | Small Circle Jiu-Jitsu | Hapkido | Law Enforcement Control Systems | BJJ (rare)",
+    "Danger Rating": "Danger: 7/10 | High likelihood of tendon strain or ligament tear. Injury can happen quickly if pressure isn't respected.",
+    "Legality in Competition": "IBJJF: Banned | Judo: Illegal | MMA: Legal but rare | Police: Widely taught",
+    "Variants": "Gooseneck classical flexion | Downward wrist curl with elbow post | Wrist flexion from wall pin or clinch control",
+    "Training Notes": "Must be applied slowly and with control. Beginners often over-apply force. Use compliant partners when learning.",
+    "History / Origin": "Developed in early Aikido schools as a wrist control technique used in self-defense.",
+    "Common Mistakes": "Overextension of wrist | Wrong grip placement | Applying force too quickly",
+    "Effectiveness": "High effectiveness in self-defense and control; moderate effectiveness in competition due to legality and grip difficulty.",
+    "Related Techniques": "Wrist Lock Extension | Armbar variations | Elbow Lock",
+    "Tags": "wrist lock | flexion lock | gooseneck | guard submission | half guard attack | joint manipulation | grappling | BJJ | submission grappling | jiu-jitsu",
+    "Notes": "Often combined with joint locks for control transitions. Cultural significance in traditional Japanese martial arts.",
+    "Class": "Submissions",
+    "Group": "Joint Locks",
+    "Family": "Wrist Locks",
+    "SubFamily": "Flexion",
+    "Genus": "Gooseneck",
+    "Species": "Gooseneck from Guard",
+    "Variety": "Gooseneck form Half Guard"
+  }
+}

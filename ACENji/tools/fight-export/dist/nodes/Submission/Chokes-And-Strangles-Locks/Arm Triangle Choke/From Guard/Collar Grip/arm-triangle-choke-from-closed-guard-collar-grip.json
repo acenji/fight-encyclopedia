@@ -1,0 +1,51 @@
+{
+  "id": "class--submission--chokes-and-strangles-locks--arm-triangle-choke--from-guard--collar-grip--arm-triangle-choke-from-guard-collar-grip",
+  "slug": "arm-triangle-choke-from-guard-collar-grip",
+  "path": [
+    "class",
+    "Submission",
+    "Chokes-And-Strangles-Locks",
+    "Arm Triangle Choke",
+    "From Guard",
+    "Collar Grip"
+  ],
+  "title": "Arm Triangle Choke (From Guard – Collar Grip)",
+  "taxonomy": {
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "From Guard",
+    "Variety": "Collar Grip"
+  },
+  "labels": {
+    "Entity Name": "Arm Triangle Choke (From Guard – Collar Grip)",
+    "English Name": "Head-and-Arm Choke (From Guard – Collar Grip)",
+    "Japanese Name": "肩固め（ガードから・襟取り）",
+    "English-Japanese Name": "Kata Gatame (From Guard – Collar Grip)",
+    "Translation": "Shoulder Hold / Arm-and-Head Lock (From Guard – Collar Grip)",
+    "Aliases": "Collar Grip Arm Triangle from Guard | Collar Grip Guard Kata Gatame | Collar Grip Head-and-Arm Choke from Guard",
+    "Description": "A collar-grip variation of the arm triangle choke applied from the guard position. The attacker uses one hand to grip the opponent’s collar (gi) while trapping the head and arm, anchoring the choke and increasing shoulder pressure. The hips are pivoted and angled to the side, with the collar grip used to pull the opponent’s posture down while compressing the carotid arteries.",
+    "Biomechanical Mechanism": "Action | Lateral compression of neck and arm with anchored gi grip || Joints Affected | Neck (carotid arteries), shoulder, upper arm || Torque Direction | Side pressure from hip angle combined with collar anchor and shoulder drive",
+    "Position / Entry Examples": "From closed guard with gi | Secure deep collar grip with one hand, trap opponent’s arm, pivot hips, and lock head-and-arm position while pulling with collar grip",
+    "Martial Arts Used In": "BJJ | Judo | Submission Grappling (gi)",
+    "Danger Rating": "Danger: 9/10 | Can render unconscious quickly; requires careful training and fast tap awareness.",
+    "Legality in Competition": "IBJJF: Legal (with caution) | Judo: Legal | MMA: Not applicable (requires gi) | Submission Grappling (gi): Legal",
+    "Variants": "Collar grip from guard || Standard from closed guard || From failed triangle || From failed armbar || High guard arm triangle",
+    "Training Notes": "Use the collar grip to break posture and maintain head control; avoid over-reliance on pulling—combine with proper hip angle and shoulder drive.",
+    "History / Origin": "Developed in gi-based grappling arts such as Judo and Brazilian Jiu-Jitsu to enhance control from guard when applying the arm triangle.",
+    "Common Mistakes": "Shallow collar grip || Failing to secure opponent’s arm || Insufficient hip angle || Over-pulling instead of compressing laterally",
+    "Effectiveness": "Highly effective in gi grappling, especially against strong posture and frame defenses.",
+    "Related Techniques": "Gi Ezekiel choke || Collar choke from guard || Triangle choke || Armbar from guard",
+    "Tags": "collar grip arm triangle from guard | gi kata gatame from guard | head-and-arm choke collar grip | BJJ | Judo | gi submission | guard submission",
+    "Notes": "Often chained after failed collar choke or as a transition from lapel control in guard.",
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "From Guard",
+    "Variety": "Collar Grip"
+  }
+}

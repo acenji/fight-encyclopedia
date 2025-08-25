@@ -1,0 +1,50 @@
+{
+  "id": "class--submission--chokes-and-strangles-locks--arm-triangle-choke--from-mount--arm-triangle-choke-from-mount",
+  "slug": "arm-triangle-choke-from-mount",
+  "path": [
+    "class",
+    "Submission",
+    "Chokes-And-Strangles-Locks",
+    "Arm Triangle Choke",
+    "From Mount"
+  ],
+  "title": "Arm Triangle Choke (From Mount)",
+  "taxonomy": {
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "Arm Triangle From Mount",
+    "Variety": "Arm Triangle Choke (From Mount)"
+  },
+  "labels": {
+    "Entity Name": "Arm Triangle Choke (From Mount)",
+    "English Name": "Head-and-Arm Choke (From Mount)",
+    "Japanese Name": "肩固め（マウントから）",
+    "English-Japanese Name": "Kata Gatame (From Mount)",
+    "Translation": "Shoulder Hold / Arm-and-Head Lock (From Mount)",
+    "Aliases": "Mounted Arm Triangle | Mount Kata Gatame | Head-and-Arm Choke from Mount",
+    "Description": "A classic arm triangle choke variation applied from the mounted position. The attacker isolates the opponent’s arm against the head, driving shoulder pressure into the neck while lowering chest weight. From mount, the attacker can angle the body and slide off to the side if needed to maximize choke pressure. This position offers strong control with both submission threat and positional dominance.",
+    "Biomechanical Mechanism": "Action | Lateral compression of the neck with opponent’s own arm and attacker’s shoulder || Joints Affected | Neck (carotid arteries), shoulder || Torque Direction | Downward and lateral pressure from chest and shoulder, reinforced by mount control",
+    "Position / Entry Examples": "From full mount, cross-face or underhook opponent’s arm across their face, drop head and shoulder beside trapped arm, then angle body to compress neck and lock the choke. Optionally transition to side control while maintaining choke pressure.",
+    "Martial Arts Used In": "BJJ | Judo | Submission Grappling | MMA",
+    "Danger Rating": "Danger: 9/10 | Direct vascular choke; unconsciousness occurs quickly if maintained.",
+    "Legality in Competition": "IBJJF: Legal | Judo: Legal | MMA: Legal | Submission Grappling: Legal",
+    "Variants": "Standard mount arm triangle || Mount to side control arm triangle || S-mount arm triangle || Transition to D’arce from failed arm triangle",
+    "Training Notes": "Establish deep head position to close space; use hips and chest for pressure, not just arms; if choke feels loose, slide to side control while keeping lock tight.",
+    "History / Origin": "Derived from classical kata gatame in Judo, this variation is widely adopted in Brazilian Jiu-Jitsu and MMA as a high-percentage submission from dominant mount.",
+    "Common Mistakes": "Not sealing shoulder deep enough || Trying to finish with arm strength instead of chest pressure || Staying too square on mount without angling, leading to weak choke",
+    "Effectiveness": "One of the highest percentage submissions from mount due to positional dominance and direct choke mechanics.",
+    "Related Techniques": "Side control arm triangle || Knee-on-belly arm triangle || D’arce choke || Anaconda choke",
+    "Tags": "mount arm triangle | kata gatame from mount | head-and-arm choke mount | BJJ | Judo | MMA | top control submission",
+    "Notes": "From mount, this choke forces the defender to choose between giving up the choke or exposing transitions such as back take or side control.",
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "Arm Triangle From Mount",
+    "Variety": ""
+  }
+}

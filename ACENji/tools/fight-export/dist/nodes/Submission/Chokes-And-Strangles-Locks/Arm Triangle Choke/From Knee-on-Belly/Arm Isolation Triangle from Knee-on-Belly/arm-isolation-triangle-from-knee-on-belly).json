@@ -1,0 +1,51 @@
+{
+  "id": "class--submission--chokes-and-strangles-locks--arm-triangle-choke--from-knee-on-belly--arm-isolation-triangle-from-knee-on-belly--arm-isolation-triangle-from-knee-on-belly",
+  "slug": "arm-isolation-triangle-from-knee-on-belly",
+  "path": [
+    "class",
+    "Submission",
+    "Chokes-And-Strangles-Locks",
+    "Arm Triangle Choke",
+    "From Knee-on-Belly",
+    "Arm Isolation Triangle from Knee-on-Belly"
+  ],
+  "title": "Arm Isolation Triangle (From Knee-on-Belly)",
+  "taxonomy": {
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "Arm Triangle From Knee on Belly",
+    "Variety": "Arm Isolation Triangle (From Knee-on-Belly)"
+  },
+  "labels": {
+    "Entity Name": "Arm Isolation Triangle (From Knee-on-Belly)",
+    "English Name": "Head-and-Arm Choke – Arm Isolation (From Knee-on-Belly)",
+    "Japanese Name": "肩固め（膝乗せから）",
+    "English-Japanese Name": "Kata Gatame (From Knee-on-Belly)",
+    "Translation": "Shoulder Hold / Head-and-Arm Choke (From Knee-on-Belly)",
+    "Aliases": "KOB Kata Gatame (Arm-Isolation) | Knee Ride Head-and-Arm | Knee-on-Belly Arm Triangle",
+    "Description": "A head-and-arm choke (kata gatame) applied from knee-on-belly. The attacker pins the opponent with the knee ride, isolates the near arm across the opponent’s neck, and drives the shoulder and chest into the carotid while locking a head-and-arm clamp. Finish is created by shoulder adduction, chest pressure, and angle change—not by leg triangling.",
+    "Biomechanical Mechanism": "Action | Lateral vascular compression using opponent’s trapped arm against their neck plus attacker’s shoulder/chest pressure || Joints Affected | Neck (carotid arteries), shoulder of the trapped arm || Torque/Force | Shoulder adduction with scapular protraction; chest drop; head positioning to close space; base stabilized by knee-on-belly",
+    "Position / Entry Examples": "From side control, post to **knee-on-belly** (knee centered, toes active). With your **right hand** cross-face across the jawline to turn the head away; your left hand controls the near wrist/triceps and **feeds the arm across** the opponent’s neck. Slide your **right arm under the head** and around the opponent’s neck/arm, connect palms (gable) or RNC-style (grab right biceps, left hand to crown). Keep knee pressure to pin hips, **drop right shoulder** toward the neck, **walk your body toward the head at ~45°**, and sprawl the left leg for base. Squeeze elbows, drive chest, and micro-adjust head position to close the space for the choke. Optionally transition to mount while maintaining the lock if you need more pressure.",
+    "Martial Arts Used In": "BJJ | Judo | Submission Grappling | MMA",
+    "Danger Rating": "Danger: 9/10 | Direct vascular choke from dominant top control; loss of consciousness can be fast once sealed.",
+    "Legality in Competition": "IBJJF: Legal | Judo: Legal | MMA: Legal | Submission Grappling: Legal",
+    "Variants": "High-knee pin to kata gatame || Knee-on-belly to mounted kata gatame finish || Wrist-control (C-grip) feed across || Underhook drag feed across",
+    "Training Notes": "Maintain knee ride pressure to stop hip shrimping || Keep the opponent’s elbow **high and across**—if it slips below the chin, reset the feed || Finish by **angling** (walk toward the head and drop shoulder), not just squeezing arms || If space remains, transition to mount or switch to d’arce/anaconda as the arm slips.",
+    "History / Origin": "Modern BJJ adaptation of kata gatame that emphasizes using the mobile knee-on-belly pin to create the arm-across feed and immediate finishing pressure.",
+    "Common Mistakes": "Trying to finish without the arm truly across the neck || Leaning too far forward and getting rolled || Keeping head too high (leaves space) || Squeezing without walking angle/shoulder drop (becomes neck crank instead of choke).",
+    "Effectiveness": "Effective as both a submission and a control threat. The knee-on-belly base limits opponent’s mobility while the head-and-arm isolation creates constant choke pressure. While not always as tight as mounted kata gatame, it reliably forces defensive reactions that open transitions (to mount, back takes, or d’arce/anaconda). Finishing potential is high if proper shoulder drop and angle are achieved.",
+    "Related Techniques": "Side control arm triangle (kata gatame) || Mount arm triangle || D’arce choke || Anaconda choke",
+    "Tags": "knee on belly arm triangle | kob kata gatame | head-and-arm choke | BJJ | Judo | MMA | top control submission",
+    "Notes": "Functions as both a submission and control position—if choke fails, attacker can transition smoothly into mount, armbar, or back take.",
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "Arm Triangle From Knee on Belly",
+    "Variety": "Arm Isolation Triangle (From Knee-on-Belly)"
+  }
+}

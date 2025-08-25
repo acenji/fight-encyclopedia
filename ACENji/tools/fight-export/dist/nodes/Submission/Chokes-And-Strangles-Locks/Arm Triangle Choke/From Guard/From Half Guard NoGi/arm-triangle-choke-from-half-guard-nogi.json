@@ -1,0 +1,51 @@
+{
+  "id": "class--submission--chokes-and-strangles-locks--arm-triangle-choke--from-guard--from-half-guard-nogi--arm-triangle-choke-from-half-guard-no-gi",
+  "slug": "arm-triangle-choke-from-half-guard-no-gi",
+  "path": [
+    "class",
+    "Submission",
+    "Chokes-And-Strangles-Locks",
+    "Arm Triangle Choke",
+    "From Guard",
+    "From Half Guard NoGi"
+  ],
+  "title": "Arm Triangle Choke (From Half Guard – No-Gi)",
+  "taxonomy": {
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "Kata Gatame From Half Guard",
+    "Variety": "Kata Gatame Half Guard No-Gi"
+  },
+  "labels": {
+    "Entity Name": "Arm Triangle Choke (From Half Guard – No-Gi)",
+    "English Name": "Arm Triangle Choke (From Half Guard – No-Gi)",
+    "Japanese Name": "肩固め（ハーフガードから・ノーギ）",
+    "English-Japanese Name": "Kata Gatame (From Half Guard – No-Gi)",
+    "Translation": "Shoulder Hold / Arm-and-Head Lock (From Half Guard – No-Gi)",
+    "Aliases": "No-Gi Arm Triangle from Half Guard | Half Guard No-Gi Kata Gatame | No-Gi Head-and-Arm Choke from Half Guard",
+    "Description": "A no-gi variation of the arm triangle choke applied from half guard. The attacker threads their arm under the opponent’s head and traps the far arm, then uses shoulder pressure, chest connection, and hip angling to tighten the choke. The bottom half guard leg is used both to control distance and to maintain leverage until the choke is locked or the guard is transitioned.",
+    "Biomechanical Mechanism": "Action | Lateral compression of neck and arm using shoulder pressure, chest connection, and head control || Joints Affected | Neck (carotid arteries), shoulder, upper arm || Torque Direction | Side pressure with hip pivot and chest drive",
+    "Position / Entry Examples": "From bottom half guard | Thread arm under opponent’s head, trap far arm, connect head-and-arm, flatten opponent with chest and hip drive, maintain leg entanglement or transition to closed/open guard to finish.",
+    "Martial Arts Used In": "BJJ | Submission Grappling | MMA",
+    "Danger Rating": "Danger: 9/10 | Can render opponent unconscious quickly if held properly",
+    "Legality in Competition": "IBJJF: Legal | Judo: Legal (rarely used no-gi) | MMA: Legal | Submission Grappling: Legal",
+    "Variants": "May use knee shield to set up arm threading | Deep half guard entry variations | Transition to mount or side control to finish tighter.",
+    "Training Notes": "Control is more difficult than closed guard but offers strong transitions. Important to maintain chest pressure and leg entanglement. Apply gradually and with control.",
+    "History / Origin": "Developed as a natural adaptation of closed guard arm triangle setups, especially in no-gi grappling. Became popular in half guard as athletes combined defensive framing with offensive choke setups.",
+    "Common Mistakes": "Failing to control opponent’s posture || Losing half guard leg entanglement || Shallow head-and-arm connection || Over-relying on arm squeeze without chest pressure",
+    "Effectiveness": "Highly effective in no-gi if chest pressure and leg entanglement are maintained; can be less stable than closed guard but offers strong transitions to mount or side control.",
+    "Related Techniques": "Darce choke | Anaconda choke | Triangle choke | Armbar from half guard",
+    "Tags": "no-gi arm triangle from half guard | half guard head-and-arm choke | no-gi kata gatame | BJJ | MMA | submission | guard submission",
+    "Notes": "Can be chained from underhook battles or failed sweeps. Common when opponent drives head low into bottom half guard. Often transitions into mount finish.",
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "Kata Gatame From Half Guard",
+    "Variety": "Kata Gatame Half Guard No-Gi"
+  }
+}

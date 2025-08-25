@@ -1,0 +1,51 @@
+{
+  "id": "class--submission--chokes-and-strangles-locks--arm-triangle-choke--from-side-control--sprawl-finish-side-control-arm-triangle-choke--arm-triangle-choke-from-side-control-sprawl-finish",
+  "slug": "arm-triangle-choke-from-side-control-sprawl-finish",
+  "path": [
+    "class",
+    "Submission",
+    "Chokes-And-Strangles-Locks",
+    "Arm Triangle Choke",
+    "From Side Control",
+    "Sprawl Finish Side Control Arm Triangle Choke"
+  ],
+  "title": "Arm Triangle Choke (From Side Control — Sprawl Finish)",
+  "taxonomy": {
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "Arm Triangle From Side Control",
+    "Variety": "Sprawl Finish Arm Triangle From Side Control"
+  },
+  "labels": {
+    "Entity Name": "Arm Triangle Choke (From Side Control — Sprawl Finish)",
+    "English Name": "Head-and-Arm Choke (From Side Control — Sprawl)",
+    "Japanese Name": "肩固め（横四方から",
+    "English-Japanese Name": "Kata Gatame (From Yoko-Shiho / Side Control)",
+    "Translation": "Shoulder Hold / Arm-and-Head Choke (From Side Control)",
+    "Aliases": "Side Control Arm Triangle (Sprawl) | Side Kata Gatame (Sprawl) | Head-and-Arm (Side, Sprawl)",
+    "Description": "A side-control kata gatame finished with a full or partial sprawl. The attacker drives shoulder and chest pressure beside the defender’s head while sprawling the legs back to load weight through the ribcage and neck. The sprawl removes the defender’s bridge power and tightens carotid compression with minimal arm effort.",
+    "Biomechanical Mechanism": "Action | Shoulder/chest compression with defender’s arm as wedge || Joints Affected | Neck (carotid arteries); shoulder (secondary) || Forces | Downward shoulder pressure, lateral chest squeeze, hip sprawl to anchor weight",
+    "Position / Entry Examples": "From side control, thread under the far arm and push it across the face; drop head low next to the trapped arm, lock gable or palm-to-bicep, then sprawl hips and “look away” while walking hips slightly toward the head to seal the choke.",
+    "Martial Arts Used In": "BJJ | Judo | Sambo | Submission Grappling | MMA",
+    "Danger Rating": "Danger: 9/10 | Direct vascular choke; fast once shoulder depth is set.",
+    "Legality in Competition": "IBJJF: Legal | Judo: Legal | Sambo: Legal | MMA: Legal | Submission Grappling: Legal",
+    "Variants": "Variants\tFull sprawl finish (direct neck / over-the-arm thread) || Half-sprawl with hip walk || Walk-around to north-south for tighter angle",
+    "Training Notes": "Head deep first, then sprawl—don’t loosen your lock during movement. Keep ear-to-mat by the trapped arm, block far hip with your knee/hand, and finish with chest/shoulder pressure, not arms alone.",
+    "History / Origin": "Classical kata gatame finishing angle taught in Judo; widely adopted in BJJ/MMA for its high control-to-finish ratio.\nCommon Mistakes\tArriving too high over the head || Allowing elbow to slip back across chest || Squeezing with arms only || Not turning the head/shoulders to close space",
+    "Common Mistakes": "Not dropping head low enough || Allowing opponent’s elbow to slip free || Trying to finish flat instead of angling chest || Squeezing with arms only instead of chest/shoulder",
+    "Effectiveness": "Very high—natural angle and sprawl neutralize common escapes.",
+    "Related Techniques": "Arm Triangle from Mount || Mount-to-Side Arm Triangle Transition || North-South Arm Triangle || D’Arce Choke (if arm slips)",
+    "Tags": "side control kata gatame sprawl | arm triangle side sprawl | head-and-arm choke side control | BJJ | Judo | Sambo | MMA",
+    "Notes": "Side control angle often provides the tightest finish for Kata Gatame; many athletes set choke from mount then dismount to side for completion.",
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "Arm Triangle From Side Control",
+    "Variety": "Sprawl Finish Arm Triangle From Side Control"
+  }
+}

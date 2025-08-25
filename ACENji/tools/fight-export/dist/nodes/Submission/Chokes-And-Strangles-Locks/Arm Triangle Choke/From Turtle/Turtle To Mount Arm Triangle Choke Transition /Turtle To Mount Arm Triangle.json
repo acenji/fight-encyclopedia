@@ -1,0 +1,51 @@
+{
+  "id": "class--submission--chokes-and-strangles-locks--arm-triangle-choke--from-turtle--turtle-to-mount-arm-triangle-choke-transition--turtle-to-mount-arm-triangle-choke-transition",
+  "slug": "turtle-to-mount-arm-triangle-choke-transition",
+  "path": [
+    "class",
+    "Submission",
+    "Chokes-And-Strangles-Locks",
+    "Arm Triangle Choke",
+    "From Turtle",
+    "Turtle To Mount Arm Triangle Choke Transition "
+  ],
+  "title": "Turtle to Mount Arm Triangle Choke Transition",
+  "taxonomy": {
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "Arm Triangle From Turtle",
+    "Variety": "Turtle to Mount Arm Triangle Choke Transition"
+  },
+  "labels": {
+    "Entity Name": "Turtle to Mount Arm Triangle Choke Transition",
+    "English Name": "Head-and-Arm Choke (Turtle to Mount Transition)",
+    "Japanese Name": "肩固め（亀からマウントへの移行）",
+    "English-Japanese Name": "Kata Gatame (Turtle to Mount Transition)",
+    "Translation": "Shoulder Hold / Head-and-Arm Choke (Turtle to Mount)",
+    "Aliases": "Turtle to Mount Kata Gatame | Turtle-to-Mount Arm Triangle | Kata Gatame Mount Transition",
+    "Description": "A kata gatame variation where the attacker breaks down the turtle and transitions directly into mount while keeping the head-and-arm locked. The choke is set from turtle, and as the defender collapses, the attacker slides into mount, finishing with strong shoulder and chest pressure.",
+    "Biomechanical Mechanism": "Action | Shoulder and chest compression with defender’s arm as wedge || Joints Affected | Neck (carotid arteries); shoulder (secondary) || Forces | Shoulder wedge, chest weight, hip pressure from mount",
+    "Position / Entry Examples": "From top turtle, thread under the near arm and feed it across the neck. Lock hands and drop shoulder next to trapped arm. As defender collapses, circle knees forward to mount while keeping choke locked. Finish from mounted kata gatame with chest pressure and head positioning.",
+    "Martial Arts Used In": "BJJ | Judo | Sambo | Submission Grappling | MMA",
+    "Danger Rating": "Danger: 9/10 | Transition to mount amplifies control and choke pressure.",
+    "Legality in Competition": "IBJJF: Legal | Judo: Legal | Sambo: Legal | MMA: Legal | Submission Grappling: Legal",
+    "Variants": "Turtle collapse directly to mount finish || Turtle to S-mount arm triangle || Turtle to mount then slide to side control",
+    "Training Notes": "Do not rush transition—secure head-and-arm first. Control hips with knee placement to prevent defender rolling. Once in mount, angle chest slightly and drive shoulder deeper to tighten choke.",
+    "History / Origin": "Developed as an adaptation of kata gatame in Judo; widely used in BJJ to convert turtle defense into dominant mount and finish.",
+    "Common Mistakes": "Climbing to mount before securing choke || Allowing defender’s elbow to slip free || Not driving shoulder deep enough in transition",
+    "Effectiveness": "Very high—combines positional advancement with a submission threat.",
+    "Related Techniques": "Arm Triangle from Mount || Standard Turtle Collapse Arm Triangle || Rolling Turtle Arm Triangle || Side Control Arm Triangle",
+    "Tags": "turtle to mount arm triangle | kata gatame turtle mount | head-and-arm choke turtle to mount | BJJ | Judo | Sambo | MMA",
+    "Notes": "Useful in competition as it gives both points for mount and a submission threat simultaneously.",
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "Arm Triangle From Turtle",
+    "Variety": "Turtle to Mount Arm Triangle Choke Transition"
+  }
+}

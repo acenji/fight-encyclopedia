@@ -1,0 +1,50 @@
+{
+  "id": "class--submission--chokes-and-strangles-locks--arm-triangle-choke--from-turtle--arm-triangle-choke-from-turtle",
+  "slug": "arm-triangle-choke-from-turtle",
+  "path": [
+    "class",
+    "Submission",
+    "Chokes-And-Strangles-Locks",
+    "Arm Triangle Choke",
+    "From Turtle"
+  ],
+  "title": "Arm Triangle Choke (From Turtle)",
+  "taxonomy": {
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "Arm Triangle From Turtle",
+    "Variety": "Arm Triangle Choke (From Turtle)"
+  },
+  "labels": {
+    "Entity Name": "Arm Triangle Choke (From Turtle)",
+    "English Name": "Head-and-Arm Choke (From Turtle)",
+    "Japanese Name": "肩固め（亀から）",
+    "English-Japanese Name": "Kata Gatame (From Turtle)",
+    "Translation": "Shoulder Hold / Arm-and-Head Choke (From Turtle)",
+    "Aliases": "A head-and-arm choke variation applied against the turtle position. The attacker threads under or around the defender’s arm to force it across the neck, then drops the shoulder and chest beside the head to create carotid compression. The finish is achieved after collapsing the turtle, rolling the defender, or transitioning to mount or side control while maintaining the choke.",
+    "Description": "A flexion wrist lock involves forcing the hand downward toward the inner forearm (palmar flexion), applying pressure on the radiocarpal joint. Causes intense pain and injury risk.",
+    "Biomechanical Mechanism": "Action | Shoulder and chest compression of the neck using the opponent’s arm as a wedge || Joints Affected | Neck (carotid arteries); shoulder (secondary) || Torque Direction | Downward shoulder pressure with lateral squeeze as defender is collapsed or rolled",
+    "Position / Entry Examples": "From top turtle, thread an arm under the defender’s near arm, feed it across the face and neck, and drop head/shoulder next to it. Collapse defender sideways or roll to finish, or circle to mount/side control while keeping choke locked.",
+    "Martial Arts Used In": "BJJ | Judo | Sambo | Submission Grappling | MMA",
+    "Danger Rating": "Danger: 9/10 | Direct vascular choke; defender’s compact turtle position can make it difficult to relieve pressure once collapsed.",
+    "Legality in Competition": "IBJJF: Legal | Judo: Legal | Sambo: Legal | MMA: Legal | Submission Grappling: Legal",
+    "Variants": "Standard turtle collapse || Rolling kata gatame from turtle || Turtle to mount kata gatame transition",
+    "Training Notes": "Patience is key—set grips first, then collapse or roll. Block defender’s far hip to prevent granby roll or guard recovery. Shoulder depth is more important than speed; once arm is across, small angle changes seal the choke.",
+    "History / Origin": "An extension of classical kata gatame in Judo, adapted for turtle breakdowns in BJJ and Sambo. Popular in MMA as turtle is a common defensive posture.",
+    "Common Mistakes": "Not collapsing the turtle before squeezing || Letting trapped arm slide back under chest || Leaning too far forward and getting rolled || Trying to finish with arm power instead of chest/shoulder pressure",
+    "Effectiveness": "High—turtle is a defensive posture, and once broken down, the choke offers strong control and finish potential.",
+    "Related Techniques": "Arm Triangle from Side Control || Arm Triangle from Mount || North-South Arm Triangle || D’Arce Choke (alternate if arm slips)",
+    "Tags": "turtle arm triangle | kata gatame turtle | head-and-arm choke turtle | BJJ | Judo | Sambo | MMA",
+    "Notes": "One of the most reliable submissions from turtle breakdown; often transitions directly into mount or side control finishes.",
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "Arm Triangle From Turtle",
+    "Variety": ""
+  }
+}

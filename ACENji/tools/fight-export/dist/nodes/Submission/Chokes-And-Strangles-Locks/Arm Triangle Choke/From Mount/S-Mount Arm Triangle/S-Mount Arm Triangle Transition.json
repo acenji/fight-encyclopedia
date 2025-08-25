@@ -1,0 +1,51 @@
+{
+  "id": "class--submission--chokes-and-strangles-locks--arm-triangle-choke--from-mount--s-mount-arm-triangle--s-mount-arm-triangle-transition",
+  "slug": "s-mount-arm-triangle-transition",
+  "path": [
+    "class",
+    "Submission",
+    "Chokes-And-Strangles-Locks",
+    "Arm Triangle Choke",
+    "From Mount",
+    "S-Mount Arm Triangle"
+  ],
+  "title": "S-Mount Arm Triangle Transition",
+  "taxonomy": {
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "S-Mount Arm Triangle Transition",
+    "Variety": "S-Mount Arm Triangle"
+  },
+  "labels": {
+    "Entity Name": "S-Mount Arm Triangle Transition",
+    "English Name": "Arm Triangle (S-Mount Transition)",
+    "Japanese Name": "肩固め（Sマウント）",
+    "English-Japanese Name": "Kata Gatame (S-Mount)",
+    "Translation": "Shoulder Hold / Head-and-Arm Choke (S-Mount)",
+    "Aliases": "S-Mount Kata Gatame | S-Mount Arm Triangle | High-Mount Head-and-Arm Choke",
+    "Description": "An arm triangle variation applied from S-Mount. The attacker raises one knee high beside the opponent’s head and swings the other knee across their chest, creating the “S” shape. This tightens control over the head-and-arm while giving greater downward pressure. The attacker may finish directly from S-Mount or transition to side control while maintaining the choke for increased tightness.",
+    "Biomechanical Mechanism": "Action | Shoulder and trapped-arm compression of the carotids with chest/hip weight angled from S-Mount || Joints Affected | Neck (carotid arteries), shoulder (secondary) || Torque Direction | Downward diagonal pressure from chest and shoulder with lateral squeeze",
+    "Position / Entry Examples": "From mount, drive one knee high under opponent’s armpit, slide other knee across torso into S-Mount. Thread opponent’s arm across their neck, drop head and shoulder to the mat, and lock head-and-arm grip. Finish by squeezing from S-Mount or slide off to side control to increase angle.",
+    "Martial Arts Used In": "BJJ | Judo | Submission Grappling | MMA",
+    "Danger Rating": "9/10 | Direct vascular choke with strong positional control; difficult for defender to bridge or escape due to high mount.",
+    "Legality in Competition": "IBJJF: Legal | Judo: Legal | MMA: Legal | Submission Grappling: Legal",
+    "Variants": "Direct S-Mount finish || S-Mount to Side Arm Triangle || S-Mount to Back Take if opponent rolls",
+    "Training Notes": "Keep weight centered; do not lean too far forward or you risk losing balance. Control opponent’s far arm to prevent bridging. Drive chest down and squeeze with gradual shoulder pressure rather than arm strength.",
+    "History / Origin": "Adapted from classical Kata Gatame; refined in Brazilian Jiu-Jitsu as an advanced mount submission. The S-Mount adjustment was popularized for creating maximum chest pressure while limiting opponent’s defensive options.",
+    "Common Mistakes": "Not securing high knee position before setting the choke || Letting the opponent’s elbow escape from across the neck || Overcommitting chest forward and getting swept || Attempting to squeeze with arms only",
+    "Effectiveness": "High—especially strong in gi and MMA due to ability to pin the arm and isolate the neck while retaining dominant control.",
+    "Related Techniques": "Arm Triangle from Mount || Mount to Side Arm Triangle Transition || Side Control Arm Triangle || D’Arce Choke (as alternate finish)",
+    "Tags": "s-mount arm triangle | kata gatame s-mount | head-and-arm choke s-mount | BJJ | Judo | MMA | top control submission",
+    "Notes": "Often used when the opponent defends standard mount arm triangle by framing or bridging—S-Mount changes the angle, making defense harder.",
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "S-Mount Arm Triangle Transition",
+    "Variety": "S-Mount Arm Triangle"
+  }
+}

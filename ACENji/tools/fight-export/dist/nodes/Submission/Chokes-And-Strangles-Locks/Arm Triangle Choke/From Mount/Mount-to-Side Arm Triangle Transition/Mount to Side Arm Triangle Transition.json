@@ -1,0 +1,51 @@
+{
+  "id": "class--submission--chokes-and-strangles-locks--arm-triangle-choke--from-mount--mount-to-side-arm-triangle-transition--mount-to-side-arm-triangle-transition",
+  "slug": "mount-to-side-arm-triangle-transition",
+  "path": [
+    "class",
+    "Submission",
+    "Chokes-And-Strangles-Locks",
+    "Arm Triangle Choke",
+    "From Mount",
+    "Mount-to-Side Arm Triangle Transition"
+  ],
+  "title": "Mount to Side Arm Triangle Transition",
+  "taxonomy": {
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "Mount to Side Arm Triangle Transition",
+    "Variety": "Mount to Side Arm Triangle"
+  },
+  "labels": {
+    "Entity Name": "Mount to Side Arm Triangle Transition",
+    "English Name": "Arm Triangle (Mount to Side Control Transition)",
+    "Japanese Name": "肩固め（マウントからサイドへの移行）",
+    "English-Japanese Name": "Kata Gatame (Mount to Side Transition)",
+    "Translation": "Shoulder Hold / Head-and-Arm Choke (Mount to Side)",
+    "Aliases": "Mount-to-Side Kata Gatame | Mount Arm Triangle Slide-Off | Mount Angle-Off Arm Triangle",
+    "Description": "A classic Kata Gatame sequence begun from mount and finished from side control. The attacker sets the head-and-arm choke from mount, then “slides off” to the side while maintaining the lock. The angle change tightens carotid compression and removes the defender’s ability to bridge or re-guard, increasing finishing percentage.",
+    "Biomechanical Mechanism": "Action | Shoulder and trapped-arm compression of the carotids with chest weight and head positioning || Joints Affected | Neck (carotid arteries), shoulder (secondary) || Torque Direction | Downward chest pressure with lateral squeeze, enhanced by side-control angle",
+    "Position / Entry Examples": "From full mount, cross-face to push the opponent’s arm across their neck; thread your head low beside the trapped arm and lock the head-and-arm. Walk your hand under their head, connect palm-to-bicep or gable grip, then slide your knee off to the side into tight side control while keeping your head low and chest heavy; finish with squeeze and slight sprawl.",
+    "Martial Arts Used In": "BJJ | Judo | Submission Grappling | MMA",
+    "Danger Rating": "9/10 | Direct vascular choke; finish often accelerates after angle change.",
+    "Legality in Competition": "IBJJF: Legal | Judo: Legal | MMA: Legal | Submission Grappling: Legal",
+    "Variants": "High-mount to side arm triangle || S-mount to side arm triangle || Knee-slide off to side with head post || Hip-walk angle before slide",
+    "Training Notes": "Set your head deep first, then slide—never loosen the lock during movement. Keep ear-to-mat pressure by the defender’s trapped arm side. Use your outside leg to sprawl slightly on arrival to side control and “look away” to close space.",
+    "History / Origin": "Rooted in Judo’s Kata Gatame; widely taught in BJJ as the preferred angle to finalize the choke when the defender’s bridge disrupts finishes from mount.",
+    "Common Mistakes": "Sliding before securing head position || Letting the opponent’s elbow slip back across the chest || Staying square after the slide instead of turning shoulders to seal the artery || Finishing with arm strength instead of chest/shoulder pressure",
+    "Effectiveness": "Very high—angle change removes common mount defenses and maximizes compression with minimal energy.",
+    "Related Techniques": "Arm Triangle from Mount || S-Mount Arm Triangle || Side Control Arm Triangle Finish || D’Arce Choke (as follow-up if arm slips)",
+    "Tags": "mount arm triangle slide-off | kata gatame mount to side | head-and-arm choke transition | BJJ | Judo | MMA",
+    "Notes": "If the defender frames the hip during the slide, windshield-wiper your legs to settle side control first, then re-tighten the choke before squeezing.",
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "Mount to Side Arm Triangle Transition",
+    "Variety": "Mount to Side Arm Triangle"
+  }
+}

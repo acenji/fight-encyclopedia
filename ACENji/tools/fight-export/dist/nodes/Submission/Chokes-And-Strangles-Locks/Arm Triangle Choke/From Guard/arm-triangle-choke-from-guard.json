@@ -1,0 +1,50 @@
+{
+  "id": "class--submission--chokes-and-strangles-locks--arm-triangle-choke--from-guard--arm-triangle-choke-from-guard",
+  "slug": "arm-triangle-choke-from-guard",
+  "path": [
+    "class",
+    "Submission",
+    "Chokes-And-Strangles-Locks",
+    "Arm Triangle Choke",
+    "From Guard"
+  ],
+  "title": "Arm Triangle Choke (From Guard)",
+  "taxonomy": {
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "From Guard",
+    "Variety": "Arm Triangle Choke (From Guard)"
+  },
+  "labels": {
+    "Entity Name": "Arm Triangle Choke (From Guard)",
+    "English Name": "Head-and-Arm Choke (From Guard)",
+    "Japanese Name": "肩固め（ガードから）",
+    "English-Japanese Name": "Kata Gatame (From Guard)",
+    "Translation": "Shoulder Hold / Arm-and-Head Lock (From Guard)",
+    "Aliases": "Arm Triangle from Guard | Guard Kata Gatame | Head-and-Arm Choke from Guard",
+    "Description": "A head-and-arm choke applied from the guard position, where the attacker traps the opponent’s arm and head between their own arm and torso. The attacker pivots their hips and angles to the side to compress the opponent’s carotid arteries using the shoulder and opponent’s own arm. Effective when transitioning from failed triangle choke or armbar attempts.",
+    "Biomechanical Mechanism": "Action | Lateral compression of neck and arm || Joints Affected | Neck (carotid arteries), shoulder, upper arm || Torque Direction | Side pressure from the guard’s angle change combined with shoulder drive into the neck",
+    "Position / Entry Examples": "From closed guard | Isolate opponent’s arm, control head, pivot hips outward, lock head-and-arm position, squeeze || From failed triangle | Slide arm under opponent’s trapped arm, angle hips, lock and finish",
+    "Martial Arts Used In": "BJJ | Judo (less common from guard) | Submission Grappling | MMA",
+    "Danger Rating": "Danger: 9/10 | Can render unconscious quickly; requires careful training and fast tap awareness.",
+    "Legality in Competition": "IBJJF: Legal (with caution) | Judo: Legal | MMA: Legal | Submission Grappling: Legal",
+    "Variants": "From closed guard || From failed triangle || From failed armbar || High guard arm triangle",
+    "Training Notes": "Angle hips for maximal shoulder pressure; keep chest close to opponent’s head; avoid pulling straight back—focus on lateral compression.",
+    "History / Origin": "Adaptation of Kata Gatame for use from the guard, popularized in BJJ as a counter to posture breaks and failed submissions.",
+    "Common Mistakes": "Not angling hips enough || Leaving space under the shoulder || Failing to control opponent’s trapped arm || Rushing the choke without proper head-arm seal",
+    "Effectiveness": "Highly effective when set up correctly, particularly against opponents defending other submissions.",
+    "Related Techniques": "Triangle choke || Armbar from guard || Omoplata || Guillotine choke",
+    "Tags": "arm triangle from guard | kata gatame from guard | head-and-arm choke from guard | BJJ | submission grappling | guard submission",
+    "Notes": "Often chained after failed triangle or armbar; useful against strong posture-breaking opponents.",
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "From Guard",
+    "Variety": ""
+  }
+}

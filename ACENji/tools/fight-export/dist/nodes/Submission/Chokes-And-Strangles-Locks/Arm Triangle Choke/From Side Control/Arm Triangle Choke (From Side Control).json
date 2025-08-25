@@ -1,0 +1,50 @@
+{
+  "id": "class--submission--chokes-and-strangles-locks--arm-triangle-choke--from-side-control--arm-triangle-choke-from-side-control",
+  "slug": "arm-triangle-choke-from-side-control",
+  "path": [
+    "class",
+    "Submission",
+    "Chokes-And-Strangles-Locks",
+    "Arm Triangle Choke",
+    "From Side Control"
+  ],
+  "title": "Arm Triangle Choke (From Side Control)",
+  "taxonomy": {
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "Arm Triangle From Side Control",
+    "Variety": "Arm Triangle Choke (From Side Control)"
+  },
+  "labels": {
+    "Entity Name": "Arm Triangle Choke (From Side Control)",
+    "English Name": "Head-and-Arm Choke (From Side Control)",
+    "Japanese Name": "肩固め（横四方から）",
+    "English-Japanese Name": "Kata Gatame (From Yoko-Shiho / Side Control)",
+    "Translation": "Shoulder Hold / Arm-and-Head Lock (From Side Control)",
+    "Aliases": "Side Control Arm Triangle | Side Kata Gatame | Head-and-Arm Choke from Side",
+    "Description": "A head-and-arm choke variation applied from side control. The attacker traps the opponent’s far arm across their neck while lowering the shoulder and chest beside the head, applying strong lateral compression. Side control creates a natural angle that increases choke tightness and prevents bridging defenses.",
+    "Biomechanical Mechanism": "Action | Shoulder and chest compression of the neck using the opponent’s trapped arm as a wedge || Joints Affected | Neck (carotid arteries); shoulder (secondary) || Torque Direction | Downward shoulder pressure with lateral chest squeeze",
+    "Position / Entry Examples": "From standard side control, thread under opponent’s far arm, drive it across their face, and drop head low beside the arm. Lock grip (palm-to-bicep or gable), sprawl hips, and “look away” to close the choke. Often entered after sliding off from mount arm triangle.",
+    "Martial Arts Used In": "BJJ | Judo | Submission Grappling | MMA | Sambo",
+    "Danger Rating": "Danger: 9/10 | Direct vascular choke; fast finish if angle is correct.",
+    "Legality in Competition": "IBJJF: Legal | Judo: Legal | MMA: Legal | Submission Grappling: Legal",
+    "Variants": "Side control finish || North-south kata gatame finish || Transition to mount kata gatame",
+    "Training Notes": "Keep your head low and ear to mat; control far hip to stop opponent from rolling. Use chest weight more than arm strength. Walk hips toward opponent’s head for maximum compression.",
+    "History / Origin": "Classic Kata Gatame form in Judo, widely adapted in BJJ as one of the highest-percentage side control submissions. Common continuation from mount arm triangle setups.",
+    "Common Mistakes": "Not dropping head low enough || Allowing opponent’s elbow to slip free || Trying to finish flat instead of angling chest || Squeezing with arms only instead of chest/shoulder",
+    "Effectiveness": "Very high—preferred finishing angle for Kata Gatame due to natural body pressure and reduced risk of sweep.",
+    "Related Techniques": "Arm Triangle from Mount || Mount to Side Arm Triangle Transition || North-South Arm Triangle || D’Arce Choke (alternate if arm slips)",
+    "Tags": "side control kata gatame | arm triangle side control | head-and-arm choke side | BJJ | Judo | MMA | Sambo",
+    "Notes": "Side control angle often provides the tightest finish for Kata Gatame; many athletes set choke from mount then dismount to side for completion.",
+    "Class": "Submissions",
+    "Group": "Chokes and Strangles",
+    "Family": "Arm Triangles",
+    "SubFamily": "Head-and-Arm Chokes",
+    "Genus": "Kata Gatame",
+    "Species": "Arm Triangle From Side Control",
+    "Variety": ""
+  }
+}

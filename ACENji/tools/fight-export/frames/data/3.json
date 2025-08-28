@@ -1,0 +1,64 @@
+{
+  "version": "fightframe-0.1",
+  "id": "atk-kob-armtriangle-f3",
+  "techniqueId": "arm-triangle-choke-from-high-knee-on-belly",
+  "frameIndex": 3,
+  "fps": 2,
+  "durationMs": 600,
+  "camera": "top",
+  "mat": { "size": [1000, 600] },
+  "fighters": {
+    "red": {
+      "pose": "kob-armtriangle-locking",
+      "keypoints": {
+        "head": [570, 265],
+        "neck": [550, 285],
+        "l_shoulder": [530, 305],
+        "r_shoulder": [570, 305],
+        "l_elbow": [505, 330],
+        "r_elbow": [610, 315],
+        "l_wrist": [500, 350],
+        "r_wrist": [615, 300],
+        "l_hip": [535, 365],
+        "r_hip": [575, 365],
+        "l_knee": [540, 345],
+        "r_knee": [590, 345],
+        "l_ankle": [545, 390],
+        "r_ankle": [605, 395]
+      }
+    },
+    "blue": {
+      "pose": "supine-head-turned-arm-trapped",
+      "keypoints": {
+        "head": [410, 300],
+        "neck": [430, 320],
+        "l_shoulder": [450, 340],
+        "r_shoulder": [410, 340],
+        "l_elbow": [480, 355],
+        "r_elbow": [420, 365],
+        "l_wrist": [500, 380],
+        "r_wrist": [420, 395],
+        "l_hip": [470, 408],
+        "r_hip": [430, 408],
+        "l_knee": [470, 462],
+        "r_knee": [430, 462],
+        "l_ankle": [470, 502],
+        "r_ankle": [430, 502]
+      }
+    }
+  },
+  "overlays": [
+    { "type": "loop", "path": ["red.r_wrist", "blue.neck", "blue.l_shoulder"], "label": "choking arm path" },
+    { "type": "grip", "a": "red.r_wrist", "b": "red.l_wrist", "label": "gable grip" },
+    { "type": "chevrons", "at": "red.r_shoulder", "dir": [-0.2, 1], "count": 3, "label": "shoulder drop" },
+    { "type": "label", "at": "blue.neck", "text": "vascular compression" },
+    { "type": "pin", "at": "red.l_knee", "label": "base stabilize" }
+  ],
+  "contacts": [
+    { "type": "pinOnTorsoTop", "a": "red.r_knee", "b": "blue" },
+    { "type": "chestToChest", "a": "red", "b": "blue" }
+  ],
+  "hints": [
+    "Slide right arm under head and around trapped arm; connect gable grip; angle toward head and drop shoulder pressure."
+  ]
+}

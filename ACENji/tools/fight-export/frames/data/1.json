@@ -1,0 +1,63 @@
+{
+  "version": "fightframe-0.1",
+  "id": "atk-kob-armtriangle-f1",
+  "techniqueId": "arm-triangle-choke-from-high-knee-on-belly",
+  "frameIndex": 1,
+  "fps": 2,
+  "durationMs": 500,
+  "camera": "top",
+  "mat": { "size": [1000, 600] },
+  "fighters": {
+    "red": {
+      "pose": "side-control-right",
+      "keypoints": {
+        "head": [560, 280],
+        "neck": [540, 300],
+        "l_shoulder": [520, 320],
+        "r_shoulder": [560, 320],
+        "l_elbow": [500, 350],
+        "r_elbow": [620, 350],
+        "l_wrist": [490, 380],
+        "r_wrist": [640, 380],
+        "l_hip": [520, 380],
+        "r_hip": [560, 380],
+        "l_knee": [520, 430],
+        "r_knee": [570, 430],
+        "l_ankle": [520, 470],
+        "r_ankle": [580, 470]
+      }
+    },
+    "blue": {
+      "pose": "supine-right-shoulder-near",
+      "keypoints": {
+        "head": [420, 300],
+        "neck": [440, 320],
+        "l_shoulder": [460, 340],
+        "r_shoulder": [420, 340],
+        "l_elbow": [490, 370],
+        "r_elbow": [430, 370],
+        "l_wrist": [510, 400],
+        "r_wrist": [430, 400],
+        "l_hip": [470, 400],
+        "r_hip": [430, 400],
+        "l_knee": [470, 460],
+        "r_knee": [430, 460],
+        "l_ankle": [470, 500],
+        "r_ankle": [430, 500]
+      }
+    }
+  },
+  "overlays": [
+    { "type": "arrow", "from": "red.r_knee", "to": [620, 350], "label": "knee slides up" },
+    { "type": "label", "at": "red.r_knee", "text": "KOB entry" },
+    { "type": "pin", "at": "blue.r_shoulder", "label": "shoulder line" },
+    { "type": "chevrons", "at": "red.l_hip", "dir": [0.2, 0.8], "count": 2, "label": "hip drive" }
+  ],
+  "contacts": [
+    { "type": "pinOnTorsoTop", "a": "red.r_knee", "b": "blue" },
+    { "type": "chestToChest", "a": "red", "b": "blue" }
+  ],
+  "hints": [
+    "From side control: begin sliding the right knee toward chest/shoulder line to establish high knee-on-belly."
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "version": "fightframe-0.1",
+  "id": "atk-kob-armtriangle-f2",
+  "techniqueId": "arm-triangle-choke-from-high-knee-on-belly",
+  "frameIndex": 2,
+  "fps": 2,
+  "durationMs": 600,
+  "camera": "top",
+  "mat": { "size": [1000, 600] },
+  "fighters": {
+    "red": {
+      "pose": "high-knee-on-belly",
+      "keypoints": {
+        "head": [565, 270],
+        "neck": [545, 290],
+        "l_shoulder": [525, 310],
+        "r_shoulder": [565, 310],
+        "l_elbow": [500, 335],
+        "r_elbow": [610, 330],
+        "l_wrist": [485, 360],
+        "r_wrist": [630, 320],
+        "l_hip": [530, 370],
+        "r_hip": [570, 370],
+        "l_knee": [535, 345],
+        "r_knee": [585, 345],
+        "l_ankle": [540, 390],
+        "r_ankle": [600, 395]
+      }
+    },
+    "blue": {
+      "pose": "supine-turned-away",
+      "keypoints": {
+        "head": [415, 300],
+        "neck": [435, 320],
+        "l_shoulder": [455, 340],
+        "r_shoulder": [415, 340],
+        "l_elbow": [485, 360],
+        "r_elbow": [425, 365],
+        "l_wrist": [505, 385],
+        "r_wrist": [425, 395],
+        "l_hip": [470, 405],
+        "r_hip": [430, 405],
+        "l_knee": [470, 460],
+        "r_knee": [430, 460],
+        "l_ankle": [470, 500],
+        "r_ankle": [430, 500]
+      }
+    }
+  },
+  "overlays": [
+    { "type": "pin", "at": "red.r_knee", "label": "high knee pin" },
+    { "type": "chevrons", "at": "red.r_knee", "dir": [0, -1], "count": 3, "label": "knee pressure" },
+    { "type": "arrow", "from": "red.r_wrist", "to": "blue.head", "label": "cross-face" },
+    { "type": "arrow", "from": "red.l_wrist", "to": "blue.neck", "label": "feed arm across" },
+    { "type": "grip", "a": "red.l_wrist", "b": "blue.l_wrist", "label": "arm control" },
+    { "type": "label", "at": "blue.head", "text": "turn head away" }
+  ],
+  "contacts": [
+    { "type": "pinOnTorsoTop", "a": "red.r_knee", "b": "blue" },
+    { "type": "chestToChest", "a": "red", "b": "blue" }
+  ],
+  "hints": [
+    "High KOB established. Cross-face to rotate the head; use left hand to feed near arm across the neck."
+  ]
+}

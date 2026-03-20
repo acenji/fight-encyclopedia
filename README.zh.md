@@ -164,6 +164,13 @@
 <tr>
 <td colspan="3">
   <b><a href="https://fightencyclopedia.com/contribute">申请成为贡献者 →</a></b>
+  <br><br>
+  <sub>Know someone who'd love this? Share it:</sub><br>
+  <a href="https://twitter.com/intent/tweet?text=Fight%20Encyclopedia%20%E2%80%94%201%2C616%2B%20fighting%20techniques%20across%20183%20martial%20arts%20in%20one%20taxonomy.&url=https%3A%2F%2Fgithub.com%2Facenji%2Ffight-encyclopedia"><img src="https://img.shields.io/badge/X-black?style=flat-square&logo=x" alt="X"></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Facenji%2Ffight-encyclopedia&title=Fight%20Encyclopedia%20%E2%80%94%201%2C616%2B%20fighting%20techniques%20across%20183%20martial%20arts"><img src="https://img.shields.io/badge/Reddit-orange?style=flat-square&logo=reddit" alt="Reddit"></a>
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Facenji%2Ffight-encyclopedia"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Facenji%2Ffight-encyclopedia"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook" alt="Facebook"></a>
+  <a href="https://api.whatsapp.com/send?text=Fight%20Encyclopedia%20%E2%80%94%201%2C616%2B%20fighting%20techniques%20across%20183%20martial%20arts.%20https%3A%2F%2Fgithub.com%2Facenji%2Ffight-encyclopedia"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp" alt="WhatsApp"></a>
 </td>
 </tr>
 </table>

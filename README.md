@@ -31,17 +31,23 @@ Think of it as **Wikipedia meets a biological classification system** — but fo
 
 ## The 9 Technique Classes
 
-| Class | Description | Examples |
-|---|---|---|
-| **Submission** | Chokes, joint locks, compression techniques | Triangle Choke, Armbar, Heel Hook, Omoplata |
-| **Strike** | Punches, kicks, elbows, knees, headbutts | Roundhouse Kick, Jab, Spinning Back Fist |
-| **Throw** | Hip throws, shoulder throws, sacrifice throws | Uchi Mata, Seoi Nage, Te Guruma |
-| **Takedown** | Single legs, double legs, trips, sweeps | Knee Slice Pass, Imanari Roll, Ankle Pick |
-| **Clinch** | Tie-ups, frames, clinch control | Thai Plum, Collar Tie, Body Lock |
-| **Position** | Guards, mounts, side control, back control | Honey Hole, Truck, Tornado Guard |
-| **Escape & Reversal** | Escapes, sweeps, reversals | Scissor Sweep, Hip Heist, Kimura Sweep |
-| **Defence** | Blocks, parries, evasion, counters | Heel Hook Defense, Guard Retention |
-| **Weapon** | Sword, staff, knife, traditional weapons | Kendo cuts, HEMA techniques |
+<table>
+<tr>
+<td align="center" width="33%"><img src="images/submissions.png" width="120"><br><b>Submission</b><br><sub>Chokes, joint locks, compression</sub></td>
+<td align="center" width="33%"><img src="images/striking.png" width="120"><br><b>Strike</b><br><sub>Punches, kicks, elbows, knees</sub></td>
+<td align="center" width="33%"><img src="images/throwing.png" width="120"><br><b>Throw</b><br><sub>Hip throws, sacrifice throws</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="images/takedowns.png" width="120"><br><b>Takedown</b><br><sub>Single legs, double legs, trips</sub></td>
+<td align="center"><img src="images/clinch.png" width="120"><br><b>Clinch</b><br><sub>Tie-ups, frames, clinch control</sub></td>
+<td align="center"><img src="images/positioning.png" width="120"><br><b>Position</b><br><sub>Guards, mounts, back control</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="images/escapes.png" width="120"><br><b>Escape & Reversal</b><br><sub>Escapes, sweeps, reversals</sub></td>
+<td align="center"><img src="images/defence.png" width="120"><br><b>Defence</b><br><sub>Blocks, parries, counters</sub></td>
+<td align="center"><img src="images/weapon.png" width="120"><br><b>Weapon</b><br><sub>Sword, staff, knife, traditional</sub></td>
+</tr>
+</table>
 
 <br>
 

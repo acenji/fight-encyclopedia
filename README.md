@@ -78,33 +78,27 @@ Every technique is documented with biomechanical analysis, Japanese names, dange
 
 ## See It In Action
 
-<details>
-<summary><b>Technique Page — Full data depth for every technique</b></summary>
-<br>
+**Technique Page** — full data depth for every technique:
+
 <img src="images/screenshots/technique-page.png" width="800" alt="Fight Encyclopedia — Technique Page">
-<br><br>
-</details>
 
-<details>
-<summary><b>Techniques A-Z — Browse and filter all 1,616 techniques</b></summary>
 <br>
+
+**Techniques A-Z** — browse and filter all 1,616 techniques:
+
 <img src="images/screenshots/techniques-az.png" width="800" alt="Fight Encyclopedia — Techniques A-Z">
-<br><br>
-</details>
 
-<details>
-<summary><b>Martial Arts A-Z — 183 martial arts with type filters</b></summary>
 <br>
+
+**Martial Arts A-Z** — 183 martial arts with type filters:
+
 <img src="images/screenshots/martial-arts-az.png" width="800" alt="Fight Encyclopedia — Martial Arts A-Z">
-<br><br>
-</details>
 
-<details>
-<summary><b>Digital Library — 2,000+ free books with custom reader</b></summary>
 <br>
+
+**Digital Library** — 2,000+ free books with custom reader:
+
 <img src="images/screenshots/library.png" width="800" alt="Fight Encyclopedia — Library">
-<br><br>
-</details>
 
 <br>
 

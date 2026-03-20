@@ -76,6 +76,38 @@ Every technique is documented with biomechanical analysis, Japanese names, dange
 
 <br>
 
+## See It In Action
+
+<details>
+<summary><b>Technique Page — Full data depth for every technique</b></summary>
+<br>
+<img src="images/screenshots/technique-page.png" width="800" alt="Fight Encyclopedia — Technique Page">
+<br><br>
+</details>
+
+<details>
+<summary><b>Techniques A-Z — Browse and filter all 1,616 techniques</b></summary>
+<br>
+<img src="images/screenshots/techniques-az.png" width="800" alt="Fight Encyclopedia — Techniques A-Z">
+<br><br>
+</details>
+
+<details>
+<summary><b>Martial Arts A-Z — 183 martial arts with type filters</b></summary>
+<br>
+<img src="images/screenshots/martial-arts-az.png" width="800" alt="Fight Encyclopedia — Martial Arts A-Z">
+<br><br>
+</details>
+
+<details>
+<summary><b>Digital Library — 2,000+ free books with custom reader</b></summary>
+<br>
+<img src="images/screenshots/library.png" width="800" alt="Fight Encyclopedia — Library">
+<br><br>
+</details>
+
+<br>
+
 ## The 7-Level Taxonomy
 
 Every technique is classified using a **biological-style hierarchy** — from broadest class down to specific variety:
@@ -149,14 +181,7 @@ Every technique entry contains up to **43 structured fields** across 9 categorie
 
 ## Digital Library
 
-**2,000+ free martial arts books** with a custom in-browser reader:
-
-<img src="images/screenshots/library.png" width="700" alt="Fight Encyclopedia Library">
-
-- Books from Internet Archive and Project Gutenberg
-- Custom reader with page tracking and bookmarks
-- Community ratings (5-star system)
-- Boxing, BJJ, Judo, Karate, Wrestling, Fencing, and more
+**2,000+ free martial arts books** with a custom in-browser reader, page tracking, bookmarks, and community ratings. Books across Boxing, BJJ, Judo, Karate, Wrestling, Fencing, and more.
 
 > **[Browse the Library →](https://fightencyclopedia.com/library)**
 

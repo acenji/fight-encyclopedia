@@ -1,31 +1,56 @@
-# Fight Encyclopedia
+<p align="center">
+  <img src="images/logo.svg" width="80" alt="Fight Encyclopedia">
+</p>
 
-### The World's First Unified Taxonomy of Fighting Techniques
+<h1 align="center">Fight Encyclopedia</h1>
 
-[**fightencyclopedia.com**](https://fightencyclopedia.com)
+<p align="center">
+  <strong>The World's First Unified Taxonomy of Fighting Techniques</strong>
+</p>
 
-**English** | [日本語](README.ja.md) | [Portugues](README.pt.md)
+<p align="center">
+  <a href="https://fightencyclopedia.com"><img src="https://img.shields.io/badge/Website-fightencyclopedia.com-blue?style=for-the-badge" alt="Website"></a>
+  <img src="https://img.shields.io/badge/Techniques-1%2C616+-red?style=for-the-badge" alt="Techniques">
+  <img src="https://img.shields.io/badge/Martial%20Arts-183-purple?style=for-the-badge" alt="Martial Arts">
+  <img src="https://img.shields.io/badge/References-925+-green?style=for-the-badge" alt="References">
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
+</p>
+
+<p align="center">
+  <strong>English</strong> | <a href="README.ja.md">日本語</a> | <a href="README.pt.md">Portugues</a>
+</p>
 
 ---
 
-**Fight Encyclopedia** is a comprehensive, structured knowledge base cataloging fighting techniques across **all martial arts and combat sports** into a single, scientifically organized taxonomy.
+## The Problem
 
-Think of it as **Wikipedia meets a biological classification system** — but for fighting techniques.
+Hundreds of martial arts have techniques that exist **only in oral tradition** — passed from teacher to student with no written record. They will be lost if not documented.
+
+Current resources are **fragmented**: BJJ techniques on one site, Judo on another, striking on a third. The same armbar exists in BJJ, Judo, Sambo, and MMA — but is documented separately in each, with no connection between them.
+
+**No single resource covers all fighting techniques across all arts in a unified system.**
+
+Until now.
+
+## What We Built
+
+**Fight Encyclopedia** catalogs fighting techniques across **all martial arts and combat sports** into a single, scientifically organized taxonomy — like a biological classification system for combat.
+
+Every technique is documented with biomechanical analysis, Japanese names, danger ratings, competition legality, verified references, counter techniques, and setup chains.
 
 <br>
 
-## By the Numbers
-
-| | |
-|---|---|
-| **1,616+** | Techniques documented |
-| **183** | Martial arts covered |
-| **9** | Technique classes |
-| **7** | Taxonomy levels |
-| **925+** | Verified reference sources |
-| **2,000+** | Free martial arts books |
-| **43** | Data fields per technique |
-| **10+** | Languages in reference database |
+<table>
+<tr>
+<td align="center"><b>1,616+</b><br><sub>Techniques</sub></td>
+<td align="center"><b>183</b><br><sub>Martial Arts</sub></td>
+<td align="center"><b>9</b><br><sub>Classes</sub></td>
+<td align="center"><b>7</b><br><sub>Taxonomy Levels</sub></td>
+<td align="center"><b>43</b><br><sub>Fields Per Technique</sub></td>
+<td align="center"><b>925+</b><br><sub>References</sub></td>
+<td align="center"><b>2,000+</b><br><sub>Free Books</sub></td>
+</tr>
+</table>
 
 <br>
 
@@ -33,19 +58,19 @@ Think of it as **Wikipedia meets a biological classification system** — but fo
 
 <table>
 <tr>
-<td align="center" width="33%"><img src="images/submissions.png" width="120"><br><b>Submission</b><br><sub>Chokes, joint locks, compression</sub></td>
-<td align="center" width="33%"><img src="images/striking.png" width="120"><br><b>Strike</b><br><sub>Punches, kicks, elbows, knees</sub></td>
-<td align="center" width="33%"><img src="images/throwing.png" width="120"><br><b>Throw</b><br><sub>Hip throws, sacrifice throws</sub></td>
+<td align="center" width="33%"><img src="images/classes/submission.png" width="160"><br><b>Submission</b><br><sub>335 techniques — Chokes, joint locks, compression</sub></td>
+<td align="center" width="33%"><img src="images/classes/strike.png" width="160"><br><b>Strike</b><br><sub>175 techniques — Punches, kicks, elbows, knees</sub></td>
+<td align="center" width="33%"><img src="images/classes/throw.png" width="160"><br><b>Throw</b><br><sub>138 techniques — Hip throws, sacrifice throws</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="images/takedowns.png" width="120"><br><b>Takedown</b><br><sub>Single legs, double legs, trips</sub></td>
-<td align="center"><img src="images/clinch.png" width="120"><br><b>Clinch</b><br><sub>Tie-ups, frames, clinch control</sub></td>
-<td align="center"><img src="images/positioning.png" width="120"><br><b>Position</b><br><sub>Guards, mounts, back control</sub></td>
+<td align="center"><img src="images/classes/takedown.png" width="160"><br><b>Takedown</b><br><sub>100 techniques — Single legs, double legs, trips</sub></td>
+<td align="center"><img src="images/classes/clinch.png" width="160"><br><b>Clinch</b><br><sub>111 techniques — Tie-ups, frames, control</sub></td>
+<td align="center"><img src="images/classes/position.png" width="160"><br><b>Position</b><br><sub>149 techniques — Guards, mounts, back control</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="images/escapes.png" width="120"><br><b>Escape & Reversal</b><br><sub>Escapes, sweeps, reversals</sub></td>
-<td align="center"><img src="images/defence.png" width="120"><br><b>Defence</b><br><sub>Blocks, parries, counters</sub></td>
-<td align="center"><img src="images/weapon.png" width="120"><br><b>Weapon</b><br><sub>Sword, staff, knife, traditional</sub></td>
+<td align="center"><img src="images/classes/escape.png" width="160"><br><b>Escape & Reversal</b><br><sub>156 techniques — Escapes, sweeps, reversals</sub></td>
+<td align="center"><img src="images/classes/defence.png" width="160"><br><b>Defence</b><br><sub>164 techniques — Blocks, parries, counters</sub></td>
+<td align="center"><img src="images/classes/weapon.png" width="160"><br><b>Weapon</b><br><sub>176 techniques — Sword, staff, knife</sub></td>
 </tr>
 </table>
 
@@ -53,140 +78,157 @@ Think of it as **Wikipedia meets a biological classification system** — but fo
 
 ## The 7-Level Taxonomy
 
-Every technique is classified using a **biological-style hierarchy** with 7 levels:
+Every technique is classified using a **biological-style hierarchy** — from broadest class down to specific variety:
 
 ```
-Class
- └── Group
-      └── Family
-           └── SubFamily
-                └── Genus
-                     └── Species
-                          └── Variety
+Class ─── Group ─── Family ─── SubFamily ─── Genus ─── Species ─── Variety
 ```
 
-**Example path:**
+**Example:**
+
 ```
 Submission > Choke & Strangle Lock > Leg Choke > Triangular Strangle
   > Triangle Choke > Triangle From Closed Guard > Standard Triangle
 ```
 
-This structure allows precise classification while showing relationships between techniques across different martial arts.
+This reveals connections invisible in traditional resources: a Judo *juji-gatame* and a BJJ *armbar* are classified as the same technique. A wrestling *double leg* and a Judo *morote-gari* share the same biomechanical family.
+
+> **[Read the full taxonomy documentation →](TAXONOMY.md)**
 
 <br>
 
-## 43 Data Fields Per Technique
+## What's Inside Each Technique
 
-Every technique entry contains up to **43 structured fields** organized into 9 categories:
+Every technique entry contains up to **43 structured fields** across 9 categories:
 
-| Category | Fields | Examples |
+<details>
+<summary><b>Click to expand all 43 fields</b></summary>
+
+| Category | What's Documented |
+|---|---|
+| **Identity** | Name, Japanese name (kanji/katakana), romanization, translation, aliases |
+| **Technical** | Biomechanical mechanism, position entries, variants, training notes, common mistakes |
+| **Ratings** | Danger rating (1-10), difficulty level, legality per competition ruleset (IBJJF, IJF, ADCC, UFC) |
+| **Historical** | Origin, effectiveness assessment, competition record with notable finishes |
+| **References** | Primary sources, citations, URLs, page numbers — no unsourced claims |
+| **Academic** | Source attribution, lineage, peer review status, last verified date |
+| **Fighter Data** | Physical attributes required, counter techniques, setup chains, competition frequency |
+| **Taxonomy** | Full 7-level classification path |
+| **Japanese** | Traditional kanji OR katakana transliteration, with origin type (traditional/gairaigo/hybrid) |
+
+> **[See the complete data format →](DATA-FORMAT.md)**
+
+</details>
+
+<br>
+
+## 183 Martial Arts
+
+| Type | Count | Examples |
 |---|---|---|
-| **Identity** | entityName, japaneseName, translation, aliases | "Omoplata", "足三角絡み", "Ashi-Sankaku-Garami" |
-| **Technical** | biomechanicalMechanism, positionEntryExamples, variants, commonMistakes | Joint angles, force vectors, leverage principles |
-| **Ratings** | dangerRating, difficulty, legalityInCompetition | "8/10", "Intermediate", "IBJJF: Legal" |
-| **Historical** | historyOrigin, effectiveness, competitionRecord | Origins, notable uses, championship finishes |
-| **References** | references, referenceUrls, referencePages, referenceNotes | Books, papers, competition data with citations |
-| **Academic** | primarySource, lineage, peerReview, lastVerified | Source attribution and verification chain |
-| **Fighter Data** | physicalAttributes, counterTechniques, setupChain | "Requires: hip flexibility", counter and chain links |
-| **Taxonomy** | class, group, family, subFamily, genus, species, variety | Full 7-level classification |
-| **Japanese** | japaneseName, englishJapaneseName, nameOrigin | Kanji, romanization, traditional/gairaigo origin |
+| **Striking** | 66 | Boxing, Muay Thai, Karate, Taekwondo, Kickboxing, Savate, Wing Chun |
+| **Grappling** | 42 | BJJ, Judo, Wrestling, Sambo, Catch Wrestling, Sumo |
+| **Hybrid** | 25 | MMA, Krav Maga, JKD, Pankration, Pencak Silat |
+| **Weapon-Based** | 50 | Kendo, Fencing, HEMA, Escrima, Iaido, Kobudo |
 
 <br>
 
-## Martial Arts Covered
+## Fight IQ — Chess for Martial Arts
 
-Fight Encyclopedia covers **183 martial arts** across 4 types:
+**The first martial arts puzzle game.** No competitor exists.
 
-- **Striking** (66): Boxing, Muay Thai, Karate, Taekwondo, Kickboxing, Savate, Wing Chun, and more
-- **Grappling** (42): BJJ, Judo, Wrestling, Sambo, Catch Wrestling, Sumo, and more
-- **Hybrid** (25): MMA, Krav Maga, JKD, Pankration, Pencak Silat, and more
-- **Weapon-Based** (50): Kendo, Fencing, HEMA, Escrima, Iaido, and more
+- Find the correct technique sequence to reach a submission — like chess tactics
+- Elo rating system that adapts to your skill level
+- Daily puzzles with streak tracking
+- 14 interactive lessons teaching technique chains through narrated scenarios
+- XP and belt rank progression (White Belt → Red Belt)
 
-<br>
-
-## Reference Database
-
-**925+ verified sources** across 12 categories:
-
-1. Sport Academies (97 institutions, 33 countries)
-2. Federations & Governing Bodies (77 entries)
-3. Research Papers & Journals (24 journals, 18 landmark papers)
-4. Textbooks & Books (132 books in 10+ languages)
-5. Video Archives & Channels (62 entries)
-6. Historical Archives & Museums (42 entries)
-7. Competition Rule Sets (30 rule sets, 16 sports)
-8. Biomechanics & Sports Science (68 entries)
-9. Traditional Lineages (28 lineage trees)
-10. Training Methodologies (95 entries)
-11. Medical & Injury Research (88 entries)
-12. Notable Practitioners & Masters (152 entries)
-
-Plus **8,822 Russian-language martial arts books** cataloged from the Russian National Library.
+> **[Play Fight IQ →](https://fightencyclopedia.com/fight-iq)**
 
 <br>
 
 ## Digital Library
 
-**2,000+ free martial arts books** from Internet Archive and Project Gutenberg with:
-- Custom in-browser reader with page tracking
-- Reading progress and bookmarks
+**2,000+ free martial arts books** with a custom in-browser reader:
+
+<img src="images/screenshots/library.png" width="700" alt="Fight Encyclopedia Library">
+
+- Books from Internet Archive and Project Gutenberg
+- Custom reader with page tracking and bookmarks
 - Community ratings (5-star system)
-- Books across Boxing, BJJ, Judo, Karate, Wrestling, Fencing, and more
+- Boxing, BJJ, Judo, Karate, Wrestling, Fencing, and more
+
+> **[Browse the Library →](https://fightencyclopedia.com/library)**
 
 <br>
 
-## Fight IQ
+## Reference Database
 
-**Chess-style martial arts puzzles** — the first of their kind:
+**925+ verified sources** across 12 categories — no unsourced claims in the encyclopedia:
 
-- Find the correct technique sequence to reach a submission (like chess tactics)
-- Elo rating system that adapts to your skill level
-- Daily puzzles with streak tracking
-- **14 interactive lessons** teaching technique chains through narrated scenarios
-- XP and belt rank progression
+| Category | Entries |
+|---|---|
+| Sport Academies | 97 institutions across 33 countries |
+| Federations & Governing Bodies | 77 organizations |
+| Research Papers & Journals | 24 journals, 18 landmark papers |
+| Textbooks & Books | 132 books in 10+ languages |
+| Video Archives & Channels | 62 platforms and channels |
+| Historical Archives & Museums | 42 institutions |
+| Competition Rule Sets | 30 rule sets across 16 sports |
+| Biomechanics & Sports Science | 68 research entries |
+| Traditional Lineages | 28 lineage trees |
+| Training Methodologies | 95 documented methods |
+| Medical & Injury Research | 88 clinical entries |
+| Notable Practitioners & Masters | 152 documented figures |
 
-No product like this exists in the market.
-
-<br>
-
-## Tech Stack
-
-- **Next.js 15** + React 19
-- **PostgreSQL** + Drizzle ORM + pgvector
-- **tRPC** (type-safe API)
-- **Hybrid search**: keyword (tsvector + trigram) + semantic (384-dim embeddings)
-- **Tailwind CSS**
-- **Turborepo** monorepo
+Plus **8,822 Russian-language martial arts books** cataloged from the Russian National Library.
 
 <br>
 
 ## We're Looking for Contributors
 
-Fight Encyclopedia is built by **ACENji Tech Solutions Inc.** We're looking for pro bono contributors:
+<table>
+<tr>
+<td>🥋 <b>Martial Arts Researcher</b><br><sub>2-3 people — Practitioners who can verify techniques</sub></td>
+<td>📚 <b>Taxonomy Editor</b><br><sub>1 person — Librarians, biologists, Wikipedia editors</sub></td>
+<td>✍️ <b>Content Writer</b><br><sub>2-3 people — Sports journalists, science writers</sub></td>
+</tr>
+<tr>
+<td>🌐 <b>Translator</b><br><sub>3-5 people — JP, CN, RU, PT, KR speakers</sub></td>
+<td>💻 <b>Developer</b><br><sub>1-2 people — Next.js, React, PostgreSQL</sub></td>
+<td>🎮 <b>Game Developer</b><br><sub>1 person — Fight IQ puzzles & lessons</sub></td>
+</tr>
+<tr>
+<td>🎥 <b>Video Contributor</b><br><sub>5+ people — Find instructional videos</sub></td>
+<td colspan="2">
+  <b><a href="https://fightencyclopedia.com/contribute">Apply to Contribute →</a></b>
+</td>
+</tr>
+</table>
 
-| Role | Need | Ideal For |
-|---|---|---|
-| **Martial Arts Researcher** | 2-3 people | BJJ/MMA/Judo practitioners, martial arts bloggers |
-| **Taxonomy Editor** | 1 person | Librarians, biologists, Wikipedia editors |
-| **Content Writer** | 2-3 people | Martial arts journalists, sports science students |
-| **Translator** | 3-5 people | Japanese, Chinese, Russian, Portuguese, Korean speakers |
-| **Developer** | 1-2 people | Full-stack (Next.js, React, PostgreSQL) |
-| **Video Contributor** | 5+ people | Anyone who watches martial arts on YouTube |
-| **Game Developer** | 1 person | For Fight IQ puzzles and interactive features |
+<br>
 
-**Apply:** [fightencyclopedia.com/contribute](https://fightencyclopedia.com/contribute)
+## Tech Stack
+
+<sub>For contributors and developers:</sub>
+
+Next.js 15 · React 19 · PostgreSQL · Drizzle ORM · pgvector · tRPC · Tailwind CSS · Turborepo
+
+Hybrid search: keyword (tsvector + trigram fallback) + semantic (384-dim MiniLM embeddings via HNSW)
 
 <br>
 
 ## Links
 
-- **Website:** [fightencyclopedia.com](https://fightencyclopedia.com)
-- **Techniques A-Z:** [fightencyclopedia.com/techniques/a-z](https://fightencyclopedia.com/techniques/a-z)
-- **Martial Arts A-Z:** [fightencyclopedia.com/martial-arts/a-z](https://fightencyclopedia.com/martial-arts/a-z)
-- **Fight IQ:** [fightencyclopedia.com/fight-iq](https://fightencyclopedia.com/fight-iq)
-- **Library:** [fightencyclopedia.com/library](https://fightencyclopedia.com/library)
-- **Contact:** [info@fightencyclopedia.com](mailto:info@fightencyclopedia.com)
-- **LLMs.txt:** [fightencyclopedia.com/llms.txt](https://fightencyclopedia.com/llms.txt)
+| | |
+|---|---|
+| 🌐 **Website** | [fightencyclopedia.com](https://fightencyclopedia.com) |
+| 📖 **Techniques A-Z** | [fightencyclopedia.com/techniques/a-z](https://fightencyclopedia.com/techniques/a-z) |
+| 🥊 **Martial Arts A-Z** | [fightencyclopedia.com/martial-arts/a-z](https://fightencyclopedia.com/martial-arts/a-z) |
+| 🧠 **Fight IQ** | [fightencyclopedia.com/fight-iq](https://fightencyclopedia.com/fight-iq) |
+| 📚 **Library** | [fightencyclopedia.com/library](https://fightencyclopedia.com/library) |
+| 🤖 **LLMs.txt** | [fightencyclopedia.com/llms.txt](https://fightencyclopedia.com/llms.txt) |
+| 📧 **Contact** | [info@fightencyclopedia.com](mailto:info@fightencyclopedia.com) |
 
 <br>
 
@@ -194,13 +236,10 @@ Fight Encyclopedia is built by **ACENji Tech Solutions Inc.** We're looking for 
 
 MIT License — see [LICENSE](LICENSE) for details.
 
-The technique taxonomy data and reference database are proprietary to ACENji Tech Solutions Inc. This repository contains documentation and structural information only.
-
-<br>
+> **Note:** The technique taxonomy data, reference database, and platform code are proprietary to ACENji Tech Solutions Inc. This repository contains documentation, structural information, and visual assets only.
 
 ---
 
 <p align="center">
-  <strong>Built by <a href="https://acenji.com">ACENji Tech Solutions Inc.</a></strong><br>
-  Delaware, USA
+  <sub>Built with ❤️ by <a href="https://acenji.com"><b>ACENji Tech Solutions Inc.</b></a> · Delaware, USA</sub>
 </p>

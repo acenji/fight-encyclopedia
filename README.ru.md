@@ -161,6 +161,11 @@
 <tr>
 <td>🎥 <b>Видеоконтрибьютор</b><br><sub>5+ человек</sub></td>
 </tr>
+<tr>
+<td colspan="3">
+  <b><a href="https://fightencyclopedia.com/contribute">Подать заявку →</a></b>
+</td>
+</tr>
 </table>
 
 <br>

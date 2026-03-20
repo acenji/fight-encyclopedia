@@ -161,6 +161,11 @@
 <tr>
 <td>🎥 <b>视频贡献者</b><br><sub>5+人</sub></td>
 </tr>
+<tr>
+<td colspan="3">
+  <b><a href="https://fightencyclopedia.com/contribute">申请成为贡献者 →</a></b>
+</td>
+</tr>
 </table>
 
 <br>

@@ -161,6 +161,11 @@ Classe ─── Groupe ─── Famille ─── Sous-Famille ─── Genre
 <tr>
 <td>🎥 <b>Contributeur Video</b><br><sub>5+ personnes</sub></td>
 </tr>
+<tr>
+<td colspan="3">
+  <b><a href="https://fightencyclopedia.com/contribute">Postuler →</a></b>
+</td>
+</tr>
 </table>
 
 <br>

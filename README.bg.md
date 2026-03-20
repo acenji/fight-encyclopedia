@@ -161,6 +161,11 @@
 <tr>
 <td>🎥 <b>Видео сътрудник</b><br><sub>5+ души — Намерете обучителни видеа</sub></td>
 </tr>
+<tr>
+<td colspan="3">
+  <b><a href="https://fightencyclopedia.com/contribute">Кандидатствайте →</a></b>
+</td>
+</tr>
 </table>
 
 <br>

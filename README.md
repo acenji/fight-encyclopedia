@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://fightencyclopedia.com"><img src="https://img.shields.io/badge/Website-fightencyclopedia.com-blue?style=for-the-badge" alt="Website"></a>
-  <img src="https://img.shields.io/badge/Techniques-1%2C616+-red?style=for-the-badge" alt="Techniques">
+  <img src="https://img.shields.io/badge/Techniques-2%2C042+-red?style=for-the-badge" alt="Techniques">
   <img src="https://img.shields.io/badge/Martial%20Arts-183-purple?style=for-the-badge" alt="Martial Arts">
   <img src="https://img.shields.io/badge/References-925+-green?style=for-the-badge" alt="References">
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
@@ -42,7 +42,7 @@ Every technique is documented with biomechanical analysis, Japanese names, dange
 
 <table>
 <tr>
-<td align="center"><b>1,616+</b><br><sub>Techniques</sub></td>
+<td align="center"><b>2,042+</b><br><sub>Techniques</sub></td>
 <td align="center"><b>183</b><br><sub>Martial Arts</sub></td>
 <td align="center"><b>9</b><br><sub>Classes</sub></td>
 <td align="center"><b>7</b><br><sub>Taxonomy Levels</sub></td>
@@ -58,19 +58,19 @@ Every technique is documented with biomechanical analysis, Japanese names, dange
 
 <table>
 <tr>
-<td align="center" width="33%"><img src="images/classes/submission.png" width="160"><br><b>Submission</b><br><sub>335 techniques — Chokes, joint locks, compression</sub></td>
-<td align="center" width="33%"><img src="images/classes/strike.png" width="160"><br><b>Strike</b><br><sub>175 techniques — Punches, kicks, elbows, knees</sub></td>
-<td align="center" width="33%"><img src="images/classes/throw.png" width="160"><br><b>Throw</b><br><sub>138 techniques — Hip throws, sacrifice throws</sub></td>
+<td align="center" width="33%"><img src="images/classes/submission.png" width="160"><br><b>Submission</b><br><sub>392 techniques — Chokes, joint locks, compression</sub></td>
+<td align="center" width="33%"><img src="images/classes/strike.png" width="160"><br><b>Strike</b><br><sub>356 techniques — Punches, kicks, elbows, knees</sub></td>
+<td align="center" width="33%"><img src="images/classes/throw.png" width="160"><br><b>Throw</b><br><sub>175 techniques — Hip throws, sacrifice throws</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="images/classes/takedown.png" width="160"><br><b>Takedown</b><br><sub>100 techniques — Single legs, double legs, trips</sub></td>
-<td align="center"><img src="images/classes/clinch.png" width="160"><br><b>Clinch</b><br><sub>111 techniques — Tie-ups, frames, control</sub></td>
-<td align="center"><img src="images/classes/position.png" width="160"><br><b>Position</b><br><sub>149 techniques — Guards, mounts, back control</sub></td>
+<td align="center"><img src="images/classes/takedown.png" width="160"><br><b>Takedown</b><br><sub>121 techniques — Single legs, double legs, trips</sub></td>
+<td align="center"><img src="images/classes/clinch.png" width="160"><br><b>Clinch</b><br><sub>129 techniques — Tie-ups, frames, control</sub></td>
+<td align="center"><img src="images/classes/position.png" width="160"><br><b>Position</b><br><sub>268 techniques — Guards, mounts, back control</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="images/classes/escape.png" width="160"><br><b>Escape & Reversal</b><br><sub>156 techniques — Escapes, sweeps, reversals</sub></td>
-<td align="center"><img src="images/classes/defence.png" width="160"><br><b>Defence</b><br><sub>164 techniques — Blocks, parries, counters</sub></td>
-<td align="center"><img src="images/classes/weapon.png" width="160"><br><b>Weapon</b><br><sub>176 techniques — Sword, staff, knife</sub></td>
+<td align="center"><img src="images/classes/escape.png" width="160"><br><b>Escape & Reversal</b><br><sub>190 techniques — Escapes, sweeps, reversals</sub></td>
+<td align="center"><img src="images/classes/defence.png" width="160"><br><b>Defence</b><br><sub>216 techniques — Blocks, parries, counters</sub></td>
+<td align="center"><img src="images/classes/weapon.png" width="160"><br><b>Weapon</b><br><sub>195 techniques — Sword, staff, knife</sub></td>
 </tr>
 </table>
 
@@ -84,7 +84,7 @@ Every technique is documented with biomechanical analysis, Japanese names, dange
 
 <br>
 
-**Techniques A-Z** — browse and filter all 1,616 techniques:
+**Techniques A-Z** — browse and filter all 2,042 techniques:
 
 <img src="images/screenshots/techniques-az.png" width="800" alt="Fight Encyclopedia — Techniques A-Z">
 
@@ -223,11 +223,11 @@ Plus **8,822 Russian-language martial arts books** cataloged from the Russian Na
   <b><a href="https://fightencyclopedia.com/contribute">Apply to Contribute →</a></b>
   <br><br>
   <sub>Know someone who'd love this? Share it:</sub><br>
-  <a href="https://twitter.com/intent/tweet?text=Fight%20Encyclopedia%20%E2%80%94%201%2C616%2B%20fighting%20techniques%20across%20183%20martial%20arts%20in%20one%20taxonomy.&url=https%3A%2F%2Fgithub.com%2Facenji%2Ffight-encyclopedia"><img src="https://img.shields.io/badge/X-black?style=flat-square&logo=x" alt="X"></a>
-  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Facenji%2Ffight-encyclopedia&title=Fight%20Encyclopedia%20%E2%80%94%201%2C616%2B%20fighting%20techniques%20across%20183%20martial%20arts"><img src="https://img.shields.io/badge/Reddit-orange?style=flat-square&logo=reddit" alt="Reddit"></a>
+  <a href="https://twitter.com/intent/tweet?text=Fight%20Encyclopedia%20%E2%80%94%202%2C042%2B%20fighting%20techniques%20across%20183%20martial%20arts%20in%20one%20taxonomy.&url=https%3A%2F%2Fgithub.com%2Facenji%2Ffight-encyclopedia"><img src="https://img.shields.io/badge/X-black?style=flat-square&logo=x" alt="X"></a>
+  <a href="https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Facenji%2Ffight-encyclopedia&title=Fight%20Encyclopedia%20%E2%80%94%202%2C042%2B%20fighting%20techniques%20across%20183%20martial%20arts"><img src="https://img.shields.io/badge/Reddit-orange?style=flat-square&logo=reddit" alt="Reddit"></a>
   <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Facenji%2Ffight-encyclopedia"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2Facenji%2Ffight-encyclopedia"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook" alt="Facebook"></a>
-  <a href="https://api.whatsapp.com/send?text=Fight%20Encyclopedia%20%E2%80%94%201%2C616%2B%20fighting%20techniques%20across%20183%20martial%20arts.%20https%3A%2F%2Fgithub.com%2Facenji%2Ffight-encyclopedia"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp" alt="WhatsApp"></a>
+  <a href="https://api.whatsapp.com/send?text=Fight%20Encyclopedia%20%E2%80%94%202%2C042%2B%20fighting%20techniques%20across%20183%20martial%20arts.%20https%3A%2F%2Fgithub.com%2Facenji%2Ffight-encyclopedia"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp" alt="WhatsApp"></a>
 </td>
 </tr>
 </table>

@@ -58,19 +58,19 @@ Every technique is documented with biomechanical analysis, Japanese names, dange
 
 <table>
 <tr>
-<td align="center" width="33%"><img src="images/classes/submission.png" width="160"><br><b>Submission</b><br><sub>392 techniques — Chokes, joint locks, compression</sub></td>
-<td align="center" width="33%"><img src="images/classes/strike.png" width="160"><br><b>Strike</b><br><sub>356 techniques — Punches, kicks, elbows, knees</sub></td>
-<td align="center" width="33%"><img src="images/classes/throw.png" width="160"><br><b>Throw</b><br><sub>175 techniques — Hip throws, sacrifice throws</sub></td>
+<td align="center" width="33%"><picture><source media="(prefers-color-scheme: dark)" srcset="images/classes/submission-white.png"><img src="images/classes/submission.png" width="160"></picture><br><b>Submission</b><br><sub>392 techniques — Chokes, joint locks, compression</sub></td>
+<td align="center" width="33%"><picture><source media="(prefers-color-scheme: dark)" srcset="images/classes/strike-white.png"><img src="images/classes/strike.png" width="160"></picture><br><b>Strike</b><br><sub>356 techniques — Punches, kicks, elbows, knees</sub></td>
+<td align="center" width="33%"><picture><source media="(prefers-color-scheme: dark)" srcset="images/classes/throw-white.png"><img src="images/classes/throw.png" width="160"></picture><br><b>Throw</b><br><sub>175 techniques — Hip throws, sacrifice throws</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="images/classes/takedown.png" width="160"><br><b>Takedown</b><br><sub>121 techniques — Single legs, double legs, trips</sub></td>
-<td align="center"><img src="images/classes/clinch.png" width="160"><br><b>Clinch</b><br><sub>129 techniques — Tie-ups, frames, control</sub></td>
-<td align="center"><img src="images/classes/position.png" width="160"><br><b>Position</b><br><sub>268 techniques — Guards, mounts, back control</sub></td>
+<td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="images/classes/takedown-white.png"><img src="images/classes/takedown.png" width="160"></picture><br><b>Takedown</b><br><sub>121 techniques — Single legs, double legs, trips</sub></td>
+<td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="images/classes/clinch-white.png"><img src="images/classes/clinch.png" width="160"></picture><br><b>Clinch</b><br><sub>129 techniques — Tie-ups, frames, control</sub></td>
+<td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="images/classes/position-white.png"><img src="images/classes/position.png" width="160"></picture><br><b>Position</b><br><sub>268 techniques — Guards, mounts, back control</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="images/classes/escape.png" width="160"><br><b>Escape & Reversal</b><br><sub>190 techniques — Escapes, sweeps, reversals</sub></td>
-<td align="center"><img src="images/classes/defence.png" width="160"><br><b>Defence</b><br><sub>216 techniques — Blocks, parries, counters</sub></td>
-<td align="center"><img src="images/classes/weapon.png" width="160"><br><b>Weapon</b><br><sub>195 techniques — Sword, staff, knife</sub></td>
+<td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="images/classes/escape-white.png"><img src="images/classes/escape.png" width="160"></picture><br><b>Escape & Reversal</b><br><sub>190 techniques — Escapes, sweeps, reversals</sub></td>
+<td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="images/classes/defence-white.png"><img src="images/classes/defence.png" width="160"></picture><br><b>Defence</b><br><sub>216 techniques — Blocks, parries, counters</sub></td>
+<td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="images/classes/weapon-white.png"><img src="images/classes/weapon.png" width="160"></picture><br><b>Weapon</b><br><sub>195 techniques — Sword, staff, knife</sub></td>
 </tr>
 </table>
 
